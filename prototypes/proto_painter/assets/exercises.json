@@ -1,0 +1,4196 @@
+[
+ {
+  "id": "cal_dead_hang",
+  "n": "Toter Hang (Dead Hang)",
+  "en": "Toter Hang (Dead Hang)",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "beginner",
+  "pm": [
+   "forearms"
+  ],
+  "sm": [
+   "lats",
+   "shoulders"
+  ],
+  "ins": [
+   "Greife die Stange schulterbreit im Obergriff.",
+   "Lass dich mit gestreckten Armen hängen, die Füße berühren nicht den Boden.",
+   "Atme ruhig weiter und halte die Position für die vorgegebene Zeit.",
+   "Fortgeschritten: Ziehe die Schultern leicht nach unten (aktiver Hang)."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 268,
+      "th2": 268,
+      "sh1": 268,
+      "sh2": 268
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 272,
+      "th2": 272,
+      "sh1": 272,
+      "sh2": 272
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_flexed_arm_hang",
+  "n": "Halten oben (Flexed Arm Hang)",
+  "en": "Halten oben (Flexed Arm Hang)",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "beginner",
+  "pm": [
+   "lats",
+   "biceps"
+  ],
+  "sm": [
+   "forearms",
+   "middle back"
+  ],
+  "ins": [
+   "Spring oder steig hoch, bis dein Kinn über der Stange ist.",
+   "Halte diese Position mit angespannter Körpermitte.",
+   "Ziehe die Ellbogen eng zum Körper und die Schultern nach unten.",
+   "Halte so lange wie möglich, dann lass dich kontrolliert ab."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 97,
+      "ua1": 279.9,
+      "ua2": 279.9,
+      "la1": 57.5,
+      "la2": 57.5,
+      "th1": 263,
+      "th2": 263,
+      "sh1": 263,
+      "sh2": 263
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 99,
+      "ua1": 281.9,
+      "ua2": 281.9,
+      "la1": 59.5,
+      "la2": 59.5,
+      "th1": 265,
+      "th2": 265,
+      "sh1": 265,
+      "sh2": 265
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_negative_pullup",
+  "n": "Negative Klimmzüge",
+  "en": "Negative Klimmzüge",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "beginner",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "biceps",
+   "middle back",
+   "forearms"
+  ],
+  "ins": [
+   "Spring oder steig hoch, bis dein Kinn über der Stange ist.",
+   "Lass dich so langsam wie möglich (3–5 Sekunden) ab, bis die Arme gestreckt sind.",
+   "Halte die Körpermitte fest und vermeide Schwung.",
+   "Steig wieder hoch und wiederhole die Bewegung."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 97,
+      "ua1": 279.9,
+      "ua2": 279.9,
+      "la1": 57.5,
+      "la2": 57.5,
+      "th1": 263,
+      "th2": 263,
+      "sh1": 263,
+      "sh2": 263
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 93,
+      "ua1": 15.5,
+      "ua2": 15.5,
+      "la1": 124.3,
+      "la2": 124.3,
+      "th1": 265,
+      "th2": 265,
+      "sh1": 265,
+      "sh2": 265
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 268,
+      "th2": 268,
+      "sh1": 268,
+      "sh2": 268
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.45
+  }
+ },
+ {
+  "id": "cal_archer_pullup",
+  "n": "Archer-Klimmzug",
+  "en": "Archer-Klimmzug",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "biceps",
+   "middle back",
+   "shoulders"
+  ],
+  "ins": [
+   "Greife die Stange sehr weit im Obergriff.",
+   "Ziehe dich zu einer Hand hoch, während der andere Arm fast gestreckt zur Seite zeigt.",
+   "Kinn über die Stange, dann kontrolliert absenken.",
+   "Wechsle die Seite nach jeder Wiederholung oder jedem Satz."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 268,
+      "th2": 268,
+      "sh1": 268,
+      "sh2": 268
+     }
+    },
+    {
+     "at": [
+      50,
+      12,
+      9.0
+     ],
+     "a": {
+      "t": 97,
+      "ua1": 279.9,
+      "ua2": 342.3,
+      "la1": 57.5,
+      "la2": 342.3,
+      "th1": 263,
+      "th2": 263,
+      "sh1": 263,
+      "sh2": 263,
+      "ua2b": 68.7,
+      "la2b": 68.7
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.6
+  }
+ },
+ {
+  "id": "cal_high_pullup",
+  "n": "Explosive Klimmzüge (High Pull-Up)",
+  "en": "Explosive Klimmzüge (High Pull-Up)",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "intermediate",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "biceps",
+   "middle back",
+   "shoulders"
+  ],
+  "ins": [
+   "Hänge mit gestreckten Armen an der Stange.",
+   "Ziehe dich explosiv so hoch wie möglich, die Stange soll Brust oder Bauch berühren.",
+   "Ziehe die Ellbogen dabei weit nach hinten-unten.",
+   "Kontrolliert ablassen. Das ist die wichtigste Vorübung für den Muscle-Up."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 268,
+      "th2": 268,
+      "sh1": 268,
+      "sh2": 268
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 108,
+      "ua1": 305,
+      "ua2": 305,
+      "la1": 75,
+      "la2": 75,
+      "th1": 258,
+      "th2": 258,
+      "sh1": 258,
+      "sh2": 258
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.9
+  }
+ },
+ {
+  "id": "cal_negative_muscle_up",
+  "n": "Negativer Muscle-Up",
+  "en": "Negativer Muscle-Up",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "intermediate",
+  "pm": [
+   "lats",
+   "triceps"
+  ],
+  "sm": [
+   "chest",
+   "shoulders",
+   "biceps"
+  ],
+  "ins": [
+   "Spring in den Stütz über der Stange (Arme gestreckt).",
+   "Lass dich langsam über den Übergang ab, bis die Brust an der Stange ist.",
+   "Senke dich weiter kontrolliert in den Hang ab.",
+   "Je langsamer, desto besser für den Aufbau der Übergangskraft."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 74,
+      "ua1": 269.9,
+      "ua2": 269.9,
+      "la1": 269.9,
+      "la2": 269.9,
+      "th1": 274,
+      "th2": 274,
+      "sh1": 274,
+      "sh2": 274
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 46,
+      "ua1": 206.7,
+      "ua2": 206.7,
+      "la1": 290.9,
+      "la2": 290.9,
+      "th1": 300,
+      "th2": 300,
+      "sh1": 275,
+      "sh2": 275
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 60,
+      "ua1": 217.8,
+      "ua2": 217.8,
+      "la1": 317.4,
+      "la2": 317.4,
+      "th1": 288,
+      "th2": 288,
+      "sh1": 272,
+      "sh2": 272
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 104,
+      "ua1": 270.9,
+      "ua2": 270.9,
+      "la1": 30.8,
+      "la2": 30.8,
+      "th1": 258,
+      "th2": 258,
+      "sh1": 258,
+      "sh2": 258
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 91,
+      "ua1": 86,
+      "ua2": 86,
+      "la1": 86,
+      "la2": 86,
+      "th1": 266,
+      "th2": 266,
+      "sh1": 266,
+      "sh2": 266
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "cycle",
+   "speed": 0.45,
+   "yaw": 30
+  }
+ },
+ {
+  "id": "cal_strict_muscle_up",
+  "n": "Muscle-Up (strikt)",
+  "en": "Muscle-Up (strikt)",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "lats",
+   "triceps"
+  ],
+  "sm": [
+   "chest",
+   "shoulders",
+   "biceps",
+   "abdominals"
+  ],
+  "ins": [
+   "Hänge an der Stange mit falschem oder normalem Griff.",
+   "Ziehe dich explosiv hoch, bis die Stange auf Brusthöhe ist.",
+   "Lehne den Oberkörper über die Stange und drücke dich in den Stütz hoch.",
+   "Strecke die Arme oben komplett und lass dich kontrolliert zurück in den Hang."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 91,
+      "ua1": 86,
+      "ua2": 86,
+      "la1": 86,
+      "la2": 86,
+      "th1": 266,
+      "th2": 266,
+      "sh1": 266,
+      "sh2": 266
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 104,
+      "ua1": 270.9,
+      "ua2": 270.9,
+      "la1": 30.8,
+      "la2": 30.8,
+      "th1": 258,
+      "th2": 258,
+      "sh1": 258,
+      "sh2": 258
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 60,
+      "ua1": 217.8,
+      "ua2": 217.8,
+      "la1": 317.4,
+      "la2": 317.4,
+      "th1": 288,
+      "th2": 288,
+      "sh1": 272,
+      "sh2": 272
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 46,
+      "ua1": 206.7,
+      "ua2": 206.7,
+      "la1": 290.9,
+      "la2": 290.9,
+      "th1": 300,
+      "th2": 300,
+      "sh1": 275,
+      "sh2": 275
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 74,
+      "ua1": 269.9,
+      "ua2": 269.9,
+      "la1": 269.9,
+      "la2": 269.9,
+      "th1": 274,
+      "th2": 274,
+      "sh1": 274,
+      "sh2": 274
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "cycle",
+   "speed": 0.7,
+   "yaw": 30
+  }
+ },
+ {
+  "id": "cal_wall_pushup",
+  "n": "Wand-Liegestütz",
+  "en": "Wand-Liegestütz",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "chest"
+  ],
+  "sm": [
+   "triceps",
+   "shoulders"
+  ],
+  "ins": [
+   "Stell dich eine Armlänge vor eine Wand und lege die Hände schulterbreit auf Brusthöhe an.",
+   "Halte den Körper gerade wie ein Brett.",
+   "Beuge die Arme, bis die Brust fast die Wand berührt.",
+   "Drücke dich zurück in die Ausgangsposition."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      80,
+      40
+     ],
+     "a": {
+      "t": 72,
+      "ua1": 0,
+      "ua2": 0,
+      "la1": 0,
+      "la2": 0,
+      "th1": 252,
+      "th2": 252,
+      "sh1": 252,
+      "sh2": 252
+     }
+    },
+    {
+     "at": [
+      80,
+      40
+     ],
+     "a": {
+      "t": 62,
+      "ua1": 315,
+      "ua2": 315,
+      "la1": 40,
+      "la2": 40,
+      "th1": 242,
+      "th2": 242,
+      "sh1": 242,
+      "sh2": 242
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "wall",
+     "x": 81,
+     "floor": 88
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_knee_pushup",
+  "n": "Knie-Liegestütz",
+  "en": "Knie-Liegestütz",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "chest"
+  ],
+  "sm": [
+   "triceps",
+   "shoulders"
+  ],
+  "ins": [
+   "Geh in den Vierfüßlerstand und setz die Hände etwas breiter als schulterbreit auf.",
+   "Wandere mit den Knien zurück, bis Knie, Hüfte und Schultern eine Linie bilden.",
+   "Senke die Brust kontrolliert Richtung Boden, die Ellbogen zeigen schräg nach hinten.",
+   "Drücke dich wieder hoch, bis die Arme gestreckt sind."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      70,
+      88
+     ],
+     "a": {
+      "t": 34,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 214,
+      "th2": 214,
+      "sh1": 165,
+      "sh2": 165
+     }
+    },
+    {
+     "at": [
+      70,
+      88
+     ],
+     "a": {
+      "t": 18,
+      "ua1": 205,
+      "ua2": 205,
+      "la1": 300,
+      "la2": 300,
+      "th1": 198,
+      "th2": 198,
+      "sh1": 172,
+      "sh2": 172
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_diamond_pushup",
+  "n": "Diamant-Liegestütz",
+  "en": "Diamant-Liegestütz",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "intermediate",
+  "pm": [
+   "triceps"
+  ],
+  "sm": [
+   "chest",
+   "shoulders"
+  ],
+  "ins": [
+   "Setz die Hände unter der Brust so auf, dass Daumen und Zeigefinger eine Raute bilden.",
+   "Spanne Bauch und Gesäß an, der Körper bildet eine gerade Linie.",
+   "Senke dich ab, bis die Brust die Hände fast berührt. Die Ellbogen bleiben eng am Körper.",
+   "Drücke dich kraftvoll wieder hoch."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      68,
+      88
+     ],
+     "a": {
+      "t": 24,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 204,
+      "th2": 204,
+      "sh1": 204,
+      "sh2": 204
+     }
+    },
+    {
+     "at": [
+      68,
+      88
+     ],
+     "a": {
+      "t": 13,
+      "ua1": 205,
+      "ua2": 205,
+      "la1": 300,
+      "la2": 300,
+      "th1": 193,
+      "th2": 193,
+      "sh1": 193,
+      "sh2": 193
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_archer_pushup",
+  "n": "Archer-Liegestütz",
+  "en": "Archer-Liegestütz",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "intermediate",
+  "pm": [
+   "chest"
+  ],
+  "sm": [
+   "triceps",
+   "shoulders"
+  ],
+  "ins": [
+   "Setz die Hände sehr weit auseinander auf.",
+   "Senke dich zu einer Hand ab, während der andere Arm gestreckt bleibt.",
+   "Drücke dich wieder hoch und wechsle die Seite.",
+   "Vorübung für den einarmigen Liegestütz."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      68,
+      88
+     ],
+     "a": {
+      "t": 24,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 204,
+      "th2": 204,
+      "sh1": 204,
+      "sh2": 204
+     }
+    },
+    {
+     "at": [
+      68,
+      88
+     ],
+     "a": {
+      "t": 13,
+      "ua1": 205,
+      "ua2": 205,
+      "la1": 300,
+      "la2": 300,
+      "th1": 193,
+      "th2": 193,
+      "sh1": 193,
+      "sh2": 193
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_pike_pushup",
+  "n": "Pike-Liegestütz",
+  "en": "Pike-Liegestütz",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "intermediate",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "triceps",
+   "chest"
+  ],
+  "ins": [
+   "Geh in den Liegestütz und schieb die Hüfte weit nach oben, sodass ein umgedrehtes V entsteht.",
+   "Die Hände sind schulterbreit, der Blick geht Richtung Füße.",
+   "Beuge die Arme und senke den Kopf vor den Händen Richtung Boden.",
+   "Drücke dich zurück nach oben. Vorübung für den Handstand-Liegestütz."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      65,
+      88
+     ],
+     "a": {
+      "t": 340,
+      "hd": 320,
+      "ua1": 285,
+      "ua2": 285,
+      "la1": 285,
+      "la2": 285,
+      "th1": 252,
+      "th2": 252,
+      "sh1": 252,
+      "sh2": 252
+     }
+    },
+    {
+     "at": [
+      65,
+      88
+     ],
+     "a": {
+      "t": 318,
+      "hd": 290,
+      "ua1": 215,
+      "ua2": 215,
+      "la1": 300,
+      "la2": 300,
+      "th1": 240,
+      "th2": 240,
+      "sh1": 240,
+      "sh2": 240
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_pseudo_planche_pushup",
+  "n": "Pseudo-Planche-Liegestütz",
+  "en": "Pseudo-Planche-Liegestütz",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "expert",
+  "pm": [
+   "shoulders",
+   "chest"
+  ],
+  "sm": [
+   "triceps",
+   "abdominals"
+  ],
+  "ins": [
+   "Setz die Hände auf Hüfthöhe auf, die Finger zeigen zur Seite oder nach hinten.",
+   "Lehne die Schultern deutlich vor die Hände.",
+   "Senke dich mit eng geführten Ellbogen ab, ohne die Vorlage zu verlieren.",
+   "Drücke dich hoch und halte die Schultern weiter vorne."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 24,
+      "ua1": 245,
+      "ua2": 245,
+      "la1": 245,
+      "la2": 245,
+      "th1": 204,
+      "th2": 204,
+      "sh1": 204,
+      "sh2": 204
+     }
+    },
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 12,
+      "ua1": 190,
+      "ua2": 190,
+      "la1": 290,
+      "la2": 290,
+      "th1": 192,
+      "th2": 192,
+      "sh1": 192,
+      "sh2": 192
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_planche_lean",
+  "n": "Planche Lean",
+  "en": "Planche Lean",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "intermediate",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "chest",
+   "abdominals",
+   "forearms"
+  ],
+  "ins": [
+   "Geh in den Liegestütz, die Finger zeigen zur Seite oder nach hinten.",
+   "Lehne dich so weit nach vorne, dass die Schultern deutlich vor den Händen sind.",
+   "Arme gestreckt lassen, Schulterblätter auseinanderdrücken (Protraktion).",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 22,
+      "ua1": 250,
+      "ua2": 250,
+      "la1": 250,
+      "la2": 250,
+      "th1": 202,
+      "th2": 202,
+      "sh1": 202,
+      "sh2": 202
+     }
+    },
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 20,
+      "ua1": 240,
+      "ua2": 240,
+      "la1": 240,
+      "la2": 240,
+      "th1": 200,
+      "th2": 200,
+      "sh1": 200,
+      "sh2": 200
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_support_hold",
+  "n": "Stütz halten (Barren)",
+  "en": "Stütz halten (Barren)",
+  "cat": "calisthenics",
+  "eq": "dip bars",
+  "lvl": "beginner",
+  "pm": [
+   "triceps"
+  ],
+  "sm": [
+   "shoulders",
+   "chest"
+  ],
+  "ins": [
+   "Stütze dich mit gestreckten Armen auf den Barren.",
+   "Drücke die Schultern nach unten, weg von den Ohren.",
+   "Halte den Körper ruhig und gerade.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      60,
+      40
+     ],
+     "a": {
+      "t": 86,
+      "ua1": 272,
+      "ua2": 272,
+      "la1": 270,
+      "la2": 270,
+      "th1": 262,
+      "th2": 262,
+      "sh1": 215,
+      "sh2": 215,
+      "ua1b": 7.5,
+      "la1b": 7.5,
+      "ua2b": 7.5,
+      "la2b": 7.5
+     }
+    },
+    {
+     "at": [
+      60,
+      40
+     ],
+     "a": {
+      "t": 88,
+      "ua1": 272,
+      "ua2": 272,
+      "la1": 270,
+      "la2": 270,
+      "th1": 262,
+      "th2": 262,
+      "sh1": 215,
+      "sh2": 215,
+      "ua1b": 7.5,
+      "la1b": 7.5,
+      "ua2b": 7.5,
+      "la2b": 7.5
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "pbars",
+     "y": 40,
+     "x1": 25,
+     "x2": 80,
+     "floor": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_negative_dip",
+  "n": "Negative Dips",
+  "en": "Negative Dips",
+  "cat": "calisthenics",
+  "eq": "dip bars",
+  "lvl": "beginner",
+  "pm": [
+   "triceps"
+  ],
+  "sm": [
+   "chest",
+   "shoulders"
+  ],
+  "ins": [
+   "Starte im Stütz am Barren mit gestreckten Armen.",
+   "Senke dich in 3–5 Sekunden ab, bis die Oberarme etwa parallel zum Boden sind.",
+   "Steig oder spring zurück in den Stütz.",
+   "Wiederhole die Bewegung."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      60,
+      40
+     ],
+     "a": {
+      "t": 86,
+      "ua1": 272,
+      "ua2": 272,
+      "la1": 270,
+      "la2": 270,
+      "th1": 262,
+      "th2": 262,
+      "sh1": 215,
+      "sh2": 215,
+      "ua1b": 7.5,
+      "la1b": 7.5,
+      "ua2b": 7.5,
+      "la2b": 7.5
+     }
+    },
+    {
+     "at": [
+      60,
+      40
+     ],
+     "a": {
+      "t": 72,
+      "ua1": 182,
+      "ua2": 182,
+      "la1": 285,
+      "la2": 285,
+      "th1": 258,
+      "th2": 258,
+      "sh1": 196,
+      "sh2": 196,
+      "ua1b": 7.5,
+      "la1b": 7.5,
+      "ua2b": 7.5,
+      "la2b": 7.5
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "pbars",
+     "y": 40,
+     "x1": 25,
+     "x2": 80,
+     "floor": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.45
+  }
+ },
+ {
+  "id": "cal_straight_bar_dip",
+  "n": "Dips an der Stange",
+  "en": "Dips an der Stange",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "intermediate",
+  "pm": [
+   "triceps",
+   "chest"
+  ],
+  "sm": [
+   "shoulders"
+  ],
+  "ins": [
+   "Stütze dich auf eine gerade Stange, die Hände schulterbreit.",
+   "Lehne den Oberkörper leicht nach vorne, die Beine leicht vor der Stange.",
+   "Senke dich ab, bis die Stange auf Höhe der Brust ist.",
+   "Drücke dich wieder in den Stütz. Wichtig für den Muscle-Up."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      40
+     ],
+     "a": {
+      "t": 74,
+      "ua1": 269.9,
+      "ua2": 269.9,
+      "la1": 269.9,
+      "la2": 269.9,
+      "th1": 272,
+      "th2": 272,
+      "sh1": 272,
+      "sh2": 272
+     }
+    },
+    {
+     "at": [
+      50,
+      40
+     ],
+     "a": {
+      "t": 52,
+      "ua1": 210.3,
+      "ua2": 210.3,
+      "la1": 312.3,
+      "la2": 312.3,
+      "th1": 252,
+      "th2": 252,
+      "sh1": 262,
+      "sh2": 262
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 40
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_crow_pose",
+  "n": "Krähe (Crow Pose)",
+  "en": "Krähe (Crow Pose)",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "triceps",
+   "abdominals",
+   "forearms"
+  ],
+  "ins": [
+   "Geh in die Hocke und setz die Hände schulterbreit vor dir auf.",
+   "Beuge die Arme leicht und setz die Knie auf die Rückseite der Oberarme.",
+   "Verlagere das Gewicht nach vorne, bis die Füße abheben.",
+   "Halte die Balance, der Blick geht leicht nach vorne."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      60,
+      88
+     ],
+     "a": {
+      "t": 20,
+      "hd": 10,
+      "ua1": 250,
+      "ua2": 250,
+      "la1": 285,
+      "la2": 285,
+      "th1": 345,
+      "th2": 345,
+      "sh1": 200,
+      "sh2": 200
+     }
+    },
+    {
+     "at": [
+      60,
+      88
+     ],
+     "a": {
+      "t": 18,
+      "hd": 8,
+      "ua1": 248,
+      "ua2": 248,
+      "la1": 283,
+      "la2": 283,
+      "th1": 343,
+      "th2": 343,
+      "sh1": 198,
+      "sh2": 198
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_wall_handstand",
+  "n": "Handstand an der Wand",
+  "en": "Handstand an der Wand",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "triceps",
+   "abdominals",
+   "traps"
+  ],
+  "ins": [
+   "Setz die Hände etwa eine Handlänge vor der Wand auf (Bauch zur Wand) oder schwing mit dem Rücken zur Wand hoch.",
+   "Laufe mit den Füßen die Wand hoch, bis der Körper fast senkrecht ist.",
+   "Drücke dich aktiv aus den Schultern raus, spanne Bauch und Gesäß an.",
+   "Halte die Position und komm kontrolliert wieder runter."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      60,
+      88
+     ],
+     "a": {
+      "t": 275,
+      "hd": 270,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 85,
+      "th2": 85,
+      "sh1": 85,
+      "sh2": 85
+     }
+    },
+    {
+     "at": [
+      60,
+      88
+     ],
+     "a": {
+      "t": 273,
+      "hd": 270,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 86,
+      "th2": 86,
+      "sh1": 86,
+      "sh2": 86
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "wall",
+     "x": 66,
+     "floor": 88
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_handstand",
+  "n": "Freier Handstand",
+  "en": "Freier Handstand",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "expert",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "triceps",
+   "abdominals",
+   "traps",
+   "forearms"
+  ],
+  "ins": [
+   "Setz die Hände schulterbreit auf und spreize die Finger.",
+   "Schwing mit einem Bein hoch und bring beide Beine zusammen über die Hüfte.",
+   "Balanciere über die Finger und Handballen, der Körper ist gestreckt.",
+   "Halte die Position. Zum Abbrechen fällst du in ein Rad oder rollst ab."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      88
+     ],
+     "a": {
+      "t": 270,
+      "hd": 270,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 90,
+      "th2": 90,
+      "sh1": 90,
+      "sh2": 90
+     }
+    },
+    {
+     "at": [
+      50,
+      88
+     ],
+     "a": {
+      "t": 271,
+      "hd": 270,
+      "ua1": 271,
+      "ua2": 271,
+      "la1": 270,
+      "la2": 270,
+      "th1": 89,
+      "th2": 89,
+      "sh1": 91,
+      "sh2": 91
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.5
+  }
+ },
+ {
+  "id": "cal_tuck_front_lever",
+  "n": "Tuck Front Lever",
+  "en": "Tuck Front Lever",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "intermediate",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "abdominals",
+   "middle back",
+   "shoulders"
+  ],
+  "ins": [
+   "Hänge an der Stange und ziehe die Knie eng an die Brust.",
+   "Drücke die Stange mit gestreckten Armen Richtung Hüfte, bis der Rücken waagerecht ist.",
+   "Halte die Schulterblätter nach hinten-unten gezogen.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 180,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 128,
+      "th2": 128,
+      "sh1": 330,
+      "sh2": 330
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 182,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 130,
+      "th2": 130,
+      "sh1": 332,
+      "sh2": 332
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_adv_tuck_front_lever",
+  "n": "Advanced Tuck Front Lever",
+  "en": "Advanced Tuck Front Lever",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "abdominals",
+   "middle back",
+   "shoulders"
+  ],
+  "ins": [
+   "Wie der Tuck Front Lever, aber der Rücken ist flach und die Hüfte gestreckt.",
+   "Die Oberschenkel bilden einen rechten Winkel zum Oberkörper.",
+   "Halte die Arme gestreckt und den Rücken waagerecht.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 180,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 88,
+      "th2": 88,
+      "sh1": 0,
+      "sh2": 0
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 182,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 90,
+      "th2": 90,
+      "sh1": 2,
+      "sh2": 2
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_one_leg_front_lever",
+  "n": "Front Lever einbeinig",
+  "en": "Front Lever einbeinig",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "abdominals",
+   "middle back",
+   "shoulders"
+  ],
+  "ins": [
+   "Gehe in den Advanced Tuck Front Lever.",
+   "Strecke ein Bein komplett aus, das andere bleibt angewinkelt.",
+   "Halte den Körper waagerecht und wechsle zwischen den Sätzen das Bein.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 180,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 0,
+      "th2": 88,
+      "sh1": 0,
+      "sh2": 0
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 182,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 2,
+      "th2": 90,
+      "sh1": 2,
+      "sh2": 2
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_straddle_front_lever",
+  "n": "Straddle Front Lever",
+  "en": "Straddle Front Lever",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "abdominals",
+   "middle back",
+   "shoulders",
+   "adductors"
+  ],
+  "ins": [
+   "Gehe aus dem Hang in die waagerechte Position.",
+   "Die Beine sind gestreckt und weit gegrätscht, das verkürzt den Hebel.",
+   "Arme gestreckt, Körper vollständig waagerecht.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 180,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 0,
+      "th2": 355,
+      "sh1": 0,
+      "sh2": 355
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 182,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 0,
+      "th2": 357,
+      "sh1": 0,
+      "sh2": 357
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_front_lever",
+  "n": "Front Lever",
+  "en": "Front Lever",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "abdominals",
+   "middle back",
+   "shoulders",
+   "lower back"
+  ],
+  "ins": [
+   "Hänge an der Stange mit schulterbreitem Obergriff.",
+   "Drücke die Stange mit gestreckten Armen nach unten und hebe den gestreckten Körper an.",
+   "Der ganze Körper ist waagerecht, das Gesicht zeigt nach oben.",
+   "Halte die Position mit voller Körperspannung."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 180,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 0,
+      "th2": 0,
+      "sh1": 0,
+      "sh2": 0
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 182,
+      "hd": 180,
+      "ua1": 72,
+      "ua2": 72,
+      "la1": 72,
+      "la2": 72,
+      "th1": 2,
+      "th2": 2,
+      "sh1": 2,
+      "sh2": 2
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_front_lever_raise",
+  "n": "Front Lever Raises",
+  "en": "Front Lever Raises",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "lats"
+  ],
+  "sm": [
+   "abdominals",
+   "shoulders"
+  ],
+  "ins": [
+   "Hänge an der Stange mit gestreckten Armen.",
+   "Hebe den gestreckten (oder gehockten) Körper bis in die Waagerechte oder darüber.",
+   "Senke ihn langsam wieder ab, ohne zu schwingen.",
+   "Wiederhole die Bewegung kontrolliert."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 268,
+      "th2": 268,
+      "sh1": 268,
+      "sh2": 268
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 180,
+      "hd": 180,
+      "ua1": 88,
+      "ua2": 88,
+      "la1": 88,
+      "la2": 88,
+      "th1": 0,
+      "th2": 0,
+      "sh1": 0,
+      "sh2": 0
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.5,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_german_hang",
+  "n": "German Hang",
+  "en": "German Hang",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "intermediate",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "biceps",
+   "chest"
+  ],
+  "ins": [
+   "Hänge an der Stange (am besten an Ringen oder einer niedrigen Stange).",
+   "Ziehe die Knie an und rolle rückwärts durch die Arme (Skin the Cat).",
+   "Lass die Füße Richtung Boden sinken, bis du eine Dehnung in Schultern und Brust spürst.",
+   "Halte kurz und rolle kontrolliert zurück."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 255,
+      "hd": 255,
+      "ua1": 120,
+      "ua2": 120,
+      "la1": 120,
+      "la2": 120,
+      "th1": 300,
+      "th2": 300,
+      "sh1": 270,
+      "sh2": 270
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 250,
+      "hd": 250,
+      "ua1": 118,
+      "ua2": 118,
+      "la1": 118,
+      "la2": 118,
+      "th1": 295,
+      "th2": 295,
+      "sh1": 270,
+      "sh2": 270
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_tuck_back_lever",
+  "n": "Tuck Back Lever",
+  "en": "Tuck Back Lever",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "intermediate",
+  "pm": [
+   "shoulders",
+   "lats"
+  ],
+  "sm": [
+   "chest",
+   "biceps",
+   "abdominals"
+  ],
+  "ins": [
+   "Rolle rückwärts durch die Arme in den Hang (wie beim German Hang).",
+   "Bringe den Rücken in die Waagerechte, die Knie sind eng an der Brust.",
+   "Die Arme bleiben gestreckt.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 0,
+      "hd": 0,
+      "ua1": 100,
+      "ua2": 100,
+      "la1": 100,
+      "la2": 100,
+      "th1": 320,
+      "th2": 320,
+      "sh1": 135,
+      "sh2": 135
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 2,
+      "hd": 0,
+      "ua1": 100,
+      "ua2": 100,
+      "la1": 100,
+      "la2": 100,
+      "th1": 322,
+      "th2": 322,
+      "sh1": 137,
+      "sh2": 137
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_straddle_back_lever",
+  "n": "Straddle Back Lever",
+  "en": "Straddle Back Lever",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "shoulders",
+   "lats"
+  ],
+  "sm": [
+   "chest",
+   "biceps",
+   "abdominals",
+   "lower back"
+  ],
+  "ins": [
+   "Gehe in den Tuck Back Lever.",
+   "Strecke die Beine gegrätscht nach hinten aus.",
+   "Der Körper ist waagerecht, das Gesicht zeigt nach unten.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 0,
+      "hd": 0,
+      "ua1": 100,
+      "ua2": 100,
+      "la1": 100,
+      "la2": 100,
+      "th1": 180,
+      "th2": 185,
+      "sh1": 180,
+      "sh2": 185
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 2,
+      "hd": 0,
+      "ua1": 100,
+      "ua2": 100,
+      "la1": 100,
+      "la2": 100,
+      "th1": 180,
+      "th2": 187,
+      "sh1": 180,
+      "sh2": 187
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_back_lever",
+  "n": "Back Lever",
+  "en": "Back Lever",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "expert",
+  "pm": [
+   "shoulders",
+   "lats"
+  ],
+  "sm": [
+   "chest",
+   "biceps",
+   "abdominals",
+   "lower back",
+   "glutes"
+  ],
+  "ins": [
+   "Rolle rückwärts in den Hang und strecke den Körper.",
+   "Senke den gestreckten Körper ab, bis er waagerecht ist, das Gesicht zeigt nach unten.",
+   "Die Arme bleiben gestreckt, Gesäß und Bauch sind angespannt.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 0,
+      "hd": 0,
+      "ua1": 100,
+      "ua2": 100,
+      "la1": 100,
+      "la2": 100,
+      "th1": 180,
+      "th2": 180,
+      "sh1": 180,
+      "sh2": 180
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 2,
+      "hd": 0,
+      "ua1": 100,
+      "ua2": 100,
+      "la1": 100,
+      "la2": 100,
+      "th1": 182,
+      "th2": 182,
+      "sh1": 182,
+      "sh2": 182
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_tuck_planche",
+  "n": "Tuck Planche",
+  "en": "Tuck Planche",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "expert",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "chest",
+   "triceps",
+   "abdominals",
+   "forearms"
+  ],
+  "ins": [
+   "Hocke dich hin und setz die Hände neben der Hüfte auf (gern auf Parallettes).",
+   "Lehne dich weit nach vorne, bis die Füße abheben. Die Knie bleiben an der Brust.",
+   "Die Arme sind komplett gestreckt, der Rücken ist leicht rund.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 10,
+      "hd": 355,
+      "ua1": 255,
+      "ua2": 255,
+      "la1": 255,
+      "la2": 255,
+      "th1": 330,
+      "th2": 330,
+      "sh1": 165,
+      "sh2": 165
+     }
+    },
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 12,
+      "hd": 355,
+      "ua1": 255,
+      "ua2": 255,
+      "la1": 255,
+      "la2": 255,
+      "th1": 332,
+      "th2": 332,
+      "sh1": 167,
+      "sh2": 167
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_adv_tuck_planche",
+  "n": "Advanced Tuck Planche",
+  "en": "Advanced Tuck Planche",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "expert",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "chest",
+   "triceps",
+   "abdominals",
+   "lower back"
+  ],
+  "ins": [
+   "Gehe in die Tuck Planche.",
+   "Strecke den Rücken flach und schiebe die Hüfte nach hinten auf Schulterhöhe.",
+   "Die Knie bleiben angewinkelt, die Oberschenkel zeigen nach unten.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 0,
+      "hd": 355,
+      "ua1": 255,
+      "ua2": 255,
+      "la1": 255,
+      "la2": 255,
+      "th1": 270,
+      "th2": 270,
+      "sh1": 180,
+      "sh2": 180
+     }
+    },
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 2,
+      "hd": 355,
+      "ua1": 255,
+      "ua2": 255,
+      "la1": 255,
+      "la2": 255,
+      "th1": 272,
+      "th2": 272,
+      "sh1": 182,
+      "sh2": 182
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_straddle_planche",
+  "n": "Straddle Planche",
+  "en": "Straddle Planche",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "expert",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "chest",
+   "triceps",
+   "abdominals",
+   "lower back",
+   "glutes"
+  ],
+  "ins": [
+   "Gehe in die Advanced Tuck Planche.",
+   "Strecke die Beine gegrätscht nach hinten aus.",
+   "Der Körper ist waagerecht, die Arme sind gestreckt.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 0,
+      "hd": 355,
+      "ua1": 255,
+      "ua2": 255,
+      "la1": 255,
+      "la2": 255,
+      "th1": 180,
+      "th2": 175,
+      "sh1": 180,
+      "sh2": 175
+     }
+    },
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 2,
+      "hd": 355,
+      "ua1": 255,
+      "ua2": 255,
+      "la1": 255,
+      "la2": 255,
+      "th1": 180,
+      "th2": 177,
+      "sh1": 180,
+      "sh2": 177
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_full_planche",
+  "n": "Planche",
+  "en": "Planche",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "expert",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "chest",
+   "triceps",
+   "abdominals",
+   "lower back",
+   "glutes"
+  ],
+  "ins": [
+   "Stütze dich auf gestreckten Armen, die Hände ungefähr auf Hüfthöhe.",
+   "Lehne dich weit nach vorne und hebe die geschlossenen, gestreckten Beine an.",
+   "Der gesamte Körper ist waagerecht über dem Boden.",
+   "Halte die Position mit maximaler Körperspannung."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 0,
+      "hd": 355,
+      "ua1": 221,
+      "ua2": 221,
+      "la1": 221,
+      "la2": 221,
+      "th1": 180,
+      "th2": 180,
+      "sh1": 180,
+      "sh2": 180
+     }
+    },
+    {
+     "at": [
+      55,
+      88
+     ],
+     "a": {
+      "t": 2,
+      "hd": 355,
+      "ua1": 221,
+      "ua2": 221,
+      "la1": 221,
+      "la2": 221,
+      "th1": 182,
+      "th2": 182,
+      "sh1": 182,
+      "sh2": 182
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 25
+  }
+ },
+ {
+  "id": "cal_tuck_lsit",
+  "n": "Tuck L-Sit",
+  "en": "Tuck L-Sit",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "beginner",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "triceps",
+   "shoulders"
+  ],
+  "ins": [
+   "Setz dich zwischen zwei Parallettes oder Stühle und stütze dich mit gestreckten Armen.",
+   "Hebe das Gesäß an und ziehe die Knie zur Brust.",
+   "Drücke die Schultern nach unten.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 268,
+      "ua2": 268,
+      "la1": 268,
+      "la2": 268,
+      "th1": 40,
+      "th2": 40,
+      "sh1": 270,
+      "sh2": 270
+     }
+    },
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 268,
+      "ua2": 268,
+      "la1": 268,
+      "la2": 268,
+      "th1": 42,
+      "th2": 42,
+      "sh1": 272,
+      "sh2": 272
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "box",
+     "x": 44,
+     "y": 78,
+     "w": 12,
+     "h": 10
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_one_leg_lsit",
+  "n": "L-Sit einbeinig",
+  "en": "L-Sit einbeinig",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "intermediate",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "triceps",
+   "shoulders",
+   "quadriceps"
+  ],
+  "ins": [
+   "Gehe in den Tuck L-Sit.",
+   "Strecke ein Bein gerade nach vorne, das andere bleibt angezogen.",
+   "Wechsle das Bein nach jedem Satz.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 268,
+      "ua2": 268,
+      "la1": 268,
+      "la2": 268,
+      "th1": 0,
+      "th2": 40,
+      "sh1": 0,
+      "sh2": 270
+     }
+    },
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 268,
+      "ua2": 268,
+      "la1": 268,
+      "la2": 268,
+      "th1": 2,
+      "th2": 42,
+      "sh1": 2,
+      "sh2": 272
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "box",
+     "x": 44,
+     "y": 78,
+     "w": 12,
+     "h": 10
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_lsit",
+  "n": "L-Sit",
+  "en": "L-Sit",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "intermediate",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "triceps",
+   "shoulders",
+   "quadriceps",
+   "hip flexors"
+  ],
+  "ins": [
+   "Stütze dich auf Parallettes, am Barren oder am Boden.",
+   "Hebe die gestreckten, geschlossenen Beine an, bis sie parallel zum Boden sind.",
+   "Drücke die Schultern nach unten und strecke die Arme.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 268,
+      "ua2": 268,
+      "la1": 268,
+      "la2": 268,
+      "th1": 0,
+      "th2": 0,
+      "sh1": 0,
+      "sh2": 0
+     }
+    },
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 268,
+      "ua2": 268,
+      "la1": 268,
+      "la2": 268,
+      "th1": 2,
+      "th2": 2,
+      "sh1": 2,
+      "sh2": 2
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "box",
+     "x": 44,
+     "y": 78,
+     "w": 12,
+     "h": 10
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_vsit",
+  "n": "V-Sit",
+  "en": "V-Sit",
+  "cat": "calisthenics",
+  "eq": "parallettes",
+  "lvl": "expert",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "triceps",
+   "shoulders",
+   "hip flexors"
+  ],
+  "ins": [
+   "Gehe in den L-Sit.",
+   "Lehne den Oberkörper leicht zurück und hebe die Beine weiter Richtung Gesicht.",
+   "Die Arme sind gestreckt, die Hüfte schiebt nach vorne.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 110,
+      "ua1": 275,
+      "ua2": 275,
+      "la1": 275,
+      "la2": 275,
+      "th1": 50,
+      "th2": 50,
+      "sh1": 50,
+      "sh2": 50
+     }
+    },
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 112,
+      "ua1": 276,
+      "ua2": 276,
+      "la1": 276,
+      "la2": 276,
+      "th1": 52,
+      "th2": 52,
+      "sh1": 52,
+      "sh2": 52
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "box",
+     "x": 44,
+     "y": 78,
+     "w": 12,
+     "h": 10
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_hollow_hold",
+  "n": "Hollow Body Hold",
+  "en": "Hollow Body Hold",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "hip flexors"
+  ],
+  "ins": [
+   "Leg dich auf den Rücken und drücke den unteren Rücken fest in den Boden.",
+   "Hebe Schultern und gestreckte Beine leicht vom Boden ab.",
+   "Strecke die Arme über den Kopf nach hinten.",
+   "Halte die Bananenform. Wenn der Rücken abhebt, die Beine höher nehmen."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "hip",
+   "frames": [
+    {
+     "at": [
+      50,
+      84
+     ],
+     "a": {
+      "t": 165,
+      "hd": 165,
+      "ua1": 172,
+      "ua2": 172,
+      "la1": 172,
+      "la2": 172,
+      "th1": 12,
+      "th2": 12,
+      "sh1": 12,
+      "sh2": 12
+     }
+    },
+    {
+     "at": [
+      50,
+      84
+     ],
+     "a": {
+      "t": 163,
+      "hd": 163,
+      "ua1": 170,
+      "ua2": 170,
+      "la1": 170,
+      "la2": 170,
+      "th1": 14,
+      "th2": 14,
+      "sh1": 14,
+      "sh2": 14
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_hanging_knee_raise",
+  "n": "Hängendes Knieheben",
+  "en": "Hängendes Knieheben",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "beginner",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "hip flexors",
+   "forearms"
+  ],
+  "ins": [
+   "Hänge mit gestreckten Armen an der Stange.",
+   "Ziehe die Knie kontrolliert bis über Hüfthöhe zur Brust.",
+   "Senke die Beine langsam ab, ohne zu schwingen.",
+   "Wiederhole die Bewegung."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 268,
+      "th2": 268,
+      "sh1": 268,
+      "sh2": 268
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 95,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 15,
+      "th2": 15,
+      "sh1": 270,
+      "sh2": 270
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_toes_to_bar",
+  "n": "Toes to Bar",
+  "en": "Toes to Bar",
+  "cat": "calisthenics",
+  "eq": "pull-up bar",
+  "lvl": "intermediate",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "lats",
+   "hip flexors",
+   "forearms"
+  ],
+  "ins": [
+   "Hänge mit gestreckten Armen an der Stange.",
+   "Hebe die gestreckten Beine, bis die Zehen die Stange berühren.",
+   "Drücke die Stange dabei leicht nach unten.",
+   "Senke die Beine kontrolliert ab."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 94,
+      "ua2": 94,
+      "la1": 94,
+      "la2": 94,
+      "th1": 268,
+      "th2": 268,
+      "sh1": 268,
+      "sh2": 268
+     }
+    },
+    {
+     "at": [
+      50,
+      12
+     ],
+     "a": {
+      "t": 125,
+      "ua1": 75,
+      "ua2": 75,
+      "la1": 75,
+      "la2": 75,
+      "th1": 70,
+      "th2": 70,
+      "sh1": 70,
+      "sh2": 70
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "bar",
+     "x": 50,
+     "y": 12
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.7
+  }
+ },
+ {
+  "id": "cal_dragon_flag",
+  "n": "Dragon Flag",
+  "en": "Dragon Flag",
+  "cat": "calisthenics",
+  "eq": "bench",
+  "lvl": "expert",
+  "pm": [
+   "abdominals"
+  ],
+  "sm": [
+   "lower back",
+   "lats",
+   "glutes"
+  ],
+  "ins": [
+   "Leg dich auf eine Bank und greife hinter dem Kopf an die Bank.",
+   "Hebe den gestreckten Körper an, bis nur noch die oberen Schultern aufliegen.",
+   "Senke den geraden Körper langsam ab, ohne in der Hüfte abzuknicken.",
+   "Kurz vor der Bank stoppen und wieder hochheben."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "sh",
+   "frames": [
+    {
+     "at": [
+      28,
+      72
+     ],
+     "a": {
+      "t": 240,
+      "hd": 180,
+      "ua1": 180,
+      "ua2": 180,
+      "la1": 100,
+      "la2": 100,
+      "th1": 60,
+      "th2": 60,
+      "sh1": 60,
+      "sh2": 60
+     }
+    },
+    {
+     "at": [
+      28,
+      72
+     ],
+     "a": {
+      "t": 200,
+      "hd": 180,
+      "ua1": 180,
+      "ua2": 180,
+      "la1": 100,
+      "la2": 100,
+      "th1": 20,
+      "th2": 20,
+      "sh1": 20,
+      "sh2": 20
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "box",
+     "x": 10,
+     "y": 74,
+     "w": 60,
+     "h": 6
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.5
+  }
+ },
+ {
+  "id": "cal_assisted_pistol",
+  "n": "Pistol Squat mit Hilfe",
+  "en": "Pistol Squat mit Hilfe",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "quadriceps"
+  ],
+  "sm": [
+   "glutes",
+   "hamstrings",
+   "calves"
+  ],
+  "ins": [
+   "Stell dich auf ein Bein und halte dich an einer Tür, Stange oder einem Band fest.",
+   "Strecke das andere Bein nach vorne.",
+   "Geh auf einem Bein so tief wie möglich in die Hocke.",
+   "Drücke dich wieder hoch, nutze die Arme nur so viel wie nötig."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "f1",
+   "frames": [
+    {
+     "at": [
+      45,
+      88
+     ],
+     "a": {
+      "t": 88,
+      "ua1": 0,
+      "ua2": 0,
+      "la1": 0,
+      "la2": 0,
+      "th1": 270,
+      "th2": 330,
+      "sh1": 270,
+      "sh2": 330
+     }
+    },
+    {
+     "at": [
+      45,
+      88
+     ],
+     "a": {
+      "t": 65,
+      "ua1": 10,
+      "ua2": 10,
+      "la1": 10,
+      "la2": 10,
+      "th1": 355,
+      "th2": 5,
+      "sh1": 242,
+      "sh2": 5
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "wall",
+     "x": 80,
+     "floor": 88
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.7
+  }
+ },
+ {
+  "id": "cal_box_pistol",
+  "n": "Pistol Squat auf Box",
+  "en": "Pistol Squat auf Box",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "intermediate",
+  "pm": [
+   "quadriceps"
+  ],
+  "sm": [
+   "glutes",
+   "hamstrings"
+  ],
+  "ins": [
+   "Stell dich mit dem Rücken vor eine Bank oder Box.",
+   "Strecke ein Bein nach vorne und setze dich einbeinig langsam auf die Box.",
+   "Steh ohne Schwung wieder auf.",
+   "Mit der Zeit nimmst du eine niedrigere Box."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "f1",
+   "frames": [
+    {
+     "at": [
+      50,
+      88
+     ],
+     "a": {
+      "t": 88,
+      "ua1": 0,
+      "ua2": 0,
+      "la1": 0,
+      "la2": 0,
+      "th1": 270,
+      "th2": 330,
+      "sh1": 270,
+      "sh2": 330
+     }
+    },
+    {
+     "at": [
+      50,
+      88
+     ],
+     "a": {
+      "t": 70,
+      "ua1": 0,
+      "ua2": 0,
+      "la1": 0,
+      "la2": 0,
+      "th1": 0,
+      "th2": 10,
+      "sh1": 255,
+      "sh2": 10
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "box",
+     "x": 20,
+     "y": 70,
+     "w": 18,
+     "h": 18
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.7
+  }
+ },
+ {
+  "id": "cal_pistol_squat",
+  "n": "Pistol Squat",
+  "en": "Pistol Squat",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "expert",
+  "pm": [
+   "quadriceps"
+  ],
+  "sm": [
+   "glutes",
+   "hamstrings",
+   "calves",
+   "abdominals"
+  ],
+  "ins": [
+   "Stell dich auf ein Bein, das andere Bein ist gestreckt vor dir.",
+   "Strecke die Arme zum Ausgleich nach vorne.",
+   "Geh auf einem Bein komplett in die Hocke, die Ferse bleibt am Boden.",
+   "Drücke dich ohne Hilfe wieder hoch."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "f1",
+   "frames": [
+    {
+     "at": [
+      45,
+      88
+     ],
+     "a": {
+      "t": 88,
+      "ua1": 0,
+      "ua2": 0,
+      "la1": 0,
+      "la2": 0,
+      "th1": 270,
+      "th2": 330,
+      "sh1": 270,
+      "sh2": 330
+     }
+    },
+    {
+     "at": [
+      45,
+      88
+     ],
+     "a": {
+      "t": 52,
+      "ua1": 8,
+      "ua2": 8,
+      "la1": 8,
+      "la2": 8,
+      "th1": 25,
+      "th2": 8,
+      "sh1": 248,
+      "sh2": 8
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.7
+  }
+ },
+ {
+  "id": "cal_shrimp_squat",
+  "n": "Shrimp Squat",
+  "en": "Shrimp Squat",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "expert",
+  "pm": [
+   "quadriceps"
+  ],
+  "sm": [
+   "glutes",
+   "hamstrings"
+  ],
+  "ins": [
+   "Stell dich auf ein Bein und greife den anderen Fuß hinter dem Körper.",
+   "Senke dich auf dem Standbein ab, bis das hintere Knie den Boden berührt.",
+   "Halte den Oberkörper leicht nach vorne geneigt.",
+   "Drücke dich wieder hoch."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "f1",
+   "frames": [
+    {
+     "at": [
+      50,
+      88
+     ],
+     "a": {
+      "t": 85,
+      "ua1": 0,
+      "ua2": 250,
+      "la1": 0,
+      "la2": 290,
+      "th1": 270,
+      "th2": 250,
+      "sh1": 270,
+      "sh2": 110
+     }
+    },
+    {
+     "at": [
+      50,
+      88
+     ],
+     "a": {
+      "t": 65,
+      "ua1": 0,
+      "ua2": 230,
+      "la1": 0,
+      "la2": 300,
+      "th1": 345,
+      "th2": 240,
+      "sh1": 240,
+      "sh2": 150
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.7
+  }
+ },
+ {
+  "id": "cal_wall_sit",
+  "n": "Wandsitzen (Wall Sit)",
+  "en": "Wandsitzen (Wall Sit)",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "quadriceps"
+  ],
+  "sm": [
+   "glutes",
+   "calves"
+  ],
+  "ins": [
+   "Lehne dich mit dem Rücken an eine Wand.",
+   "Rutsche nach unten, bis Knie und Hüfte etwa 90 Grad gebeugt sind.",
+   "Die Knie sind über den Fußgelenken.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "f1",
+   "frames": [
+    {
+     "at": [
+      48,
+      88
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 280,
+      "ua2": 280,
+      "la1": 0,
+      "la2": 0,
+      "th1": 0,
+      "th2": 0,
+      "sh1": 270,
+      "sh2": 270
+     }
+    },
+    {
+     "at": [
+      48,
+      88
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 280,
+      "ua2": 280,
+      "la1": 2,
+      "la2": 2,
+      "th1": 1,
+      "th2": 1,
+      "sh1": 270,
+      "sh2": 270
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "wall",
+     "x": 30,
+     "floor": 88
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4
+  }
+ },
+ {
+  "id": "cal_single_calf_raise",
+  "n": "Einbeiniges Wadenheben",
+  "en": "Einbeiniges Wadenheben",
+  "cat": "calisthenics",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "calves"
+  ],
+  "sm": [],
+  "ins": [
+   "Stell dich auf einem Bein auf eine Treppenstufe, die Ferse hängt über die Kante.",
+   "Halte dich zum Gleichgewicht leicht fest.",
+   "Drücke dich so hoch wie möglich auf die Zehenspitzen.",
+   "Senke die Ferse langsam unter die Stufe ab."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "f1",
+   "frames": [
+    {
+     "at": [
+      50,
+      78
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 0,
+      "ua2": 0,
+      "la1": 0,
+      "la2": 0,
+      "th1": 270,
+      "th2": 270,
+      "sh1": 270,
+      "sh2": 200
+     }
+    },
+    {
+     "at": [
+      50,
+      70
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 0,
+      "ua2": 0,
+      "la1": 0,
+      "la2": 0,
+      "th1": 270,
+      "th2": 270,
+      "sh1": 270,
+      "sh2": 200
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "box",
+     "x": 40,
+     "y": 78,
+     "w": 20,
+     "h": 10
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.0
+  }
+ },
+ {
+  "id": "cal_burpee",
+  "n": "Burpee",
+  "en": "Burpee",
+  "cat": "cardio",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "quadriceps"
+  ],
+  "sm": [
+   "chest",
+   "shoulders",
+   "triceps",
+   "abdominals",
+   "calves"
+  ],
+  "ins": [
+   "Steh aufrecht mit hüftbreitem Stand.",
+   "Geh in die Hocke, setz die Hände auf und spring mit den Füßen in den Liegestütz.",
+   "Optional: mach einen Liegestütz.",
+   "Spring mit den Füßen zurück zu den Händen und spring explosiv mit den Armen über dem Kopf hoch."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "f1",
+   "frames": [
+    {
+     "at": [
+      40,
+      88
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 270,
+      "th2": 270,
+      "sh1": 270,
+      "sh2": 270
+     }
+    },
+    {
+     "at": [
+      40,
+      88
+     ],
+     "a": {
+      "t": 50,
+      "ua1": 280,
+      "ua2": 280,
+      "la1": 280,
+      "la2": 280,
+      "th1": 10,
+      "th2": 10,
+      "sh1": 240,
+      "sh2": 240
+     }
+    },
+    {
+     "at": [
+      15,
+      88
+     ],
+     "a": {
+      "t": 24,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 204,
+      "th2": 204,
+      "sh1": 204,
+      "sh2": 204
+     }
+    },
+    {
+     "at": [
+      40,
+      88
+     ],
+     "a": {
+      "t": 50,
+      "ua1": 280,
+      "ua2": 280,
+      "la1": 280,
+      "la2": 280,
+      "th1": 10,
+      "th2": 10,
+      "sh1": 240,
+      "sh2": 240
+     }
+    },
+    {
+     "at": [
+      40,
+      78
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 90,
+      "ua2": 90,
+      "la1": 90,
+      "la2": 90,
+      "th1": 270,
+      "th2": 270,
+      "sh1": 270,
+      "sh2": 270
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "cycle",
+   "speed": 0.8
+  }
+ },
+ {
+  "id": "cal_jumping_jack",
+  "n": "Hampelmann (Jumping Jacks)",
+  "en": "Hampelmann (Jumping Jacks)",
+  "cat": "cardio",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "calves"
+  ],
+  "sm": [
+   "shoulders",
+   "quadriceps"
+  ],
+  "ins": [
+   "Steh aufrecht, die Arme hängen seitlich am Körper.",
+   "Spring in die Grätsche und führe die Arme seitlich über den Kopf.",
+   "Spring zurück in die Ausgangsposition.",
+   "Wiederhole die Bewegung in einem flüssigen Rhythmus."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "hip",
+   "frames": [
+    {
+     "at": [
+      50,
+      56
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 270,
+      "ua2": 270,
+      "la1": 270,
+      "la2": 270,
+      "th1": 270,
+      "th2": 270,
+      "sh1": 270,
+      "sh2": 270,
+      "ua1b": 9,
+      "la1b": 9,
+      "ua2b": 9,
+      "la2b": 9,
+      "th1b": 2,
+      "sh1b": 2,
+      "th2b": 2,
+      "sh2b": 2
+     }
+    },
+    {
+     "at": [
+      50,
+      56.6
+     ],
+     "a": {
+      "t": 90,
+      "ua1": 90,
+      "ua2": 90,
+      "la1": 90,
+      "la2": 90,
+      "th1": 270,
+      "th2": 270,
+      "sh1": 270,
+      "sh2": 270,
+      "ua1b": 32,
+      "la1b": 35,
+      "ua2b": 32,
+      "la2b": 35,
+      "th1b": 12,
+      "sh1b": 12,
+      "th2b": 12,
+      "sh2b": 12
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.6,
+   "yaw": 60
+  }
+ },
+ {
+  "id": "cal_high_knees",
+  "n": "Kniehebelauf (High Knees)",
+  "en": "Kniehebelauf (High Knees)",
+  "cat": "cardio",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "quadriceps"
+  ],
+  "sm": [
+   "calves",
+   "abdominals",
+   "hip flexors"
+  ],
+  "ins": [
+   "Lauf auf der Stelle.",
+   "Ziehe die Knie abwechselnd bis auf Hüfthöhe hoch.",
+   "Die Arme schwingen aktiv mit.",
+   "Bleib auf den Fußballen und halte ein hohes Tempo."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "hip",
+   "frames": [
+    {
+     "at": [
+      50,
+      52
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 300,
+      "ua2": 230,
+      "la1": 40,
+      "la2": 280,
+      "th1": 0,
+      "th2": 268,
+      "sh1": 270,
+      "sh2": 268
+     }
+    },
+    {
+     "at": [
+      50,
+      52
+     ],
+     "a": {
+      "t": 92,
+      "ua1": 230,
+      "ua2": 300,
+      "la1": 280,
+      "la2": 40,
+      "th1": 268,
+      "th2": 0,
+      "sh1": 268,
+      "sh2": 270
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.8
+  }
+ },
+ {
+  "id": "cal_bear_crawl",
+  "n": "Bärengang (Bear Crawl)",
+  "en": "Bärengang (Bear Crawl)",
+  "cat": "cardio",
+  "eq": "body only",
+  "lvl": "beginner",
+  "pm": [
+   "shoulders"
+  ],
+  "sm": [
+   "quadriceps",
+   "abdominals",
+   "triceps"
+  ],
+  "ins": [
+   "Geh in den Vierfüßlerstand und hebe die Knie wenige Zentimeter vom Boden.",
+   "Bewege dich vorwärts, indem du gleichzeitig die gegenüberliegende Hand und den Fuß versetzt.",
+   "Halte den Rücken flach und die Hüfte tief.",
+   "Laufe eine Strecke oder eine bestimmte Zeit."
+  ],
+  "mode": "r",
+  "anim": {
+   "anchor": "hip",
+   "frames": [
+    {
+     "at": [
+      45,
+      62
+     ],
+     "a": {
+      "t": 5,
+      "ua1": 255,
+      "ua2": 275,
+      "la1": 265,
+      "la2": 280,
+      "th1": 310,
+      "th2": 290,
+      "sh1": 235,
+      "sh2": 220
+     }
+    },
+    {
+     "at": [
+      45,
+      62
+     ],
+     "a": {
+      "t": 5,
+      "ua1": 275,
+      "ua2": 255,
+      "la1": 280,
+      "la2": 265,
+      "th1": 290,
+      "th2": 310,
+      "sh1": 220,
+      "sh2": 235
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 1.2
+  }
+ },
+ {
+  "id": "cal_tuck_human_flag",
+  "n": "Tuck Human Flag",
+  "en": "Tuck Human Flag",
+  "cat": "calisthenics",
+  "eq": "other",
+  "lvl": "expert",
+  "pm": [
+   "abdominals",
+   "lats"
+  ],
+  "sm": [
+   "shoulders",
+   "obliques",
+   "triceps"
+  ],
+  "ins": [
+   "Greife eine senkrechte Stange: die obere Hand im Obergriff, die untere im Untergriff, etwas mehr als schulterbreit.",
+   "Drücke mit dem unteren Arm und ziehe mit dem oberen Arm.",
+   "Hebe die Beine mit angezogenen Knien zur Seite an, bis die Hüfte auf Schulterhöhe ist.",
+   "Halte die Position für die vorgegebene Zeit."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      30,
+      22,
+      0
+     ],
+     "a": {
+      "t": 90,
+      "hd": 90,
+      "tb": -90.0,
+      "ua1": 101.6,
+      "ua1b": -49.4,
+      "la1": 101.6,
+      "la1b": -49.4,
+      "ua2": 258.4,
+      "ua2b": 49.4,
+      "la2": 258.4,
+      "la2b": 49.4,
+      "th1": 0,
+      "th1b": 60,
+      "sh1": 270,
+      "sh1b": -30,
+      "th2": 0,
+      "th2b": -60,
+      "sh2": 270,
+      "sh2b": 30
+     }
+    },
+    {
+     "at": [
+      30,
+      22,
+      0
+     ],
+     "a": {
+      "t": 90,
+      "hd": 90,
+      "tb": -88.5,
+      "ua1": 101.9,
+      "ua1b": -50.9,
+      "la1": 101.9,
+      "la1b": -50.9,
+      "ua2": 258.1,
+      "ua2b": 50.9,
+      "la2": 258.1,
+      "la2b": 50.9,
+      "th1": 0,
+      "th1b": 60,
+      "sh1": 270,
+      "sh1b": -30,
+      "th2": 0,
+      "th2b": -60,
+      "sh2": 270,
+      "sh2b": 30
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "pole",
+     "x": 30,
+     "floor": 88
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 80
+  }
+ },
+ {
+  "id": "cal_human_flag",
+  "n": "Human Flag",
+  "en": "Human Flag",
+  "cat": "calisthenics",
+  "eq": "other",
+  "lvl": "expert",
+  "pm": [
+   "abdominals",
+   "lats"
+  ],
+  "sm": [
+   "shoulders",
+   "obliques",
+   "triceps"
+  ],
+  "ins": [
+   "Greife eine senkrechte Stange, die Hände etwas mehr als schulterbreit.",
+   "Drücke mit dem unteren Arm, ziehe mit dem oberen Arm.",
+   "Hebe den gestreckten Körper seitlich an, bis er waagerecht wie eine Fahne ist.",
+   "Halte die Position mit voller Körperspannung."
+  ],
+  "mode": "t",
+  "anim": {
+   "anchor": "w1",
+   "frames": [
+    {
+     "at": [
+      30,
+      22,
+      0
+     ],
+     "a": {
+      "t": 90,
+      "hd": 90,
+      "tb": -90.0,
+      "ua1": 101.6,
+      "ua1b": -49.4,
+      "la1": 101.6,
+      "la1b": -49.4,
+      "ua2": 258.4,
+      "ua2b": 49.4,
+      "la2": 258.4,
+      "la2b": 49.4,
+      "th1": 270,
+      "th1b": 87,
+      "sh1": 270,
+      "sh1b": 87,
+      "th2": 270,
+      "th2b": -87,
+      "sh2": 270,
+      "sh2b": -87
+     }
+    },
+    {
+     "at": [
+      30,
+      22,
+      0
+     ],
+     "a": {
+      "t": 90,
+      "hd": 90,
+      "tb": -88.5,
+      "ua1": 101.9,
+      "ua1b": -50.9,
+      "la1": 101.9,
+      "la1b": -50.9,
+      "ua2": 258.1,
+      "ua2b": 50.9,
+      "la2": 258.1,
+      "la2b": 50.9,
+      "th1": 270,
+      "th1b": 87,
+      "sh1": 270,
+      "sh1b": 87,
+      "th2": 270,
+      "th2b": -87,
+      "sh2": 270,
+      "sh2b": -87
+     }
+    }
+   ],
+   "props": [
+    {
+     "k": "pole",
+     "x": 30,
+     "floor": 88
+    },
+    {
+     "k": "floor",
+     "y": 88
+    }
+   ],
+   "loop": "pingpong",
+   "speed": 0.4,
+   "yaw": 80
+  }
+ }
+]
