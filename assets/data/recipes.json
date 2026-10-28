@@ -1,0 +1,1779 @@
+[
+ {
+  "id": "r_overnight_oats_beeren",
+  "name": "Protein-Overnight-Oats mit Beeren",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Meal Prep",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "50 g Haferflocken (zart)",
+   "150 g Magerquark",
+   "100 ml fettarme Milch (1,5 %)",
+   "10 g Chiasamen",
+   "100 g Beerenmischung (TK oder frisch)"
+  ],
+  "steps": [
+   "Gib Haferflocken, Magerquark, Milch und Chiasamen in ein Schraubglas und rühre alles gut durch.",
+   "Hebe die Hälfte der Beeren unter und gib die restlichen Beeren obendrauf.",
+   "Verschließe das Glas und stelle es mindestens 6 Stunden, am besten über Nacht, in den Kühlschrank.",
+   "Rühre die Oats morgens kurz durch und iss sie direkt aus dem Glas. Im Kühlschrank halten sie 2 Tage."
+  ],
+  "kcal": 399,
+  "p": 31,
+  "c": 49,
+  "f": 9
+ },
+ {
+  "id": "r_overnight_oats_erdnuss",
+  "name": "Overnight Oats mit Erdnussbutter und Banane",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Meal Prep",
+   "Schnell",
+   "Masse"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "70 g Haferflocken (zart)",
+   "200 g Skyr (natur)",
+   "100 ml Vollmilch (3,5 %)",
+   "1 Banane (ca. 120 g)",
+   "20 g Erdnussbutter (100 % Erdnüsse)"
+  ],
+  "steps": [
+   "Rühre Haferflocken, Skyr und Milch in einem Glas glatt.",
+   "Schneide die Banane in Scheiben und hebe die Hälfte unter die Masse.",
+   "Stelle das Glas über Nacht in den Kühlschrank.",
+   "Gib morgens die restlichen Bananenscheiben und die Erdnussbutter obenauf und iss die Oats kalt oder kurz in der Mikrowelle erwärmt."
+  ],
+  "kcal": 661,
+  "p": 41,
+  "c": 81,
+  "f": 19
+ },
+ {
+  "id": "r_protein_pancakes_banane",
+  "name": "Protein-Pancakes mit Banane",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell",
+   "Post-Workout"
+  ],
+  "minutes": 15,
+  "servings": 1,
+  "ingredients": [
+   "1 Banane (ca. 120 g)",
+   "2 Eier (Größe M, ca. 120 g)",
+   "40 g Haferflocken (zart)",
+   "25 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "4 g Öl zum Braten",
+   "100 g Skyr (natur)",
+   "50 g Beerenmischung (TK oder frisch)",
+   "1 TL Backpulver, 1 Prise Zimt"
+  ],
+  "steps": [
+   "Zerdrücke die Banane in einer Schüssel mit der Gabel zu Mus.",
+   "Gib Eier, Haferflocken, Proteinpulver, Backpulver und Zimt dazu und püriere oder verrühre alles zu einem glatten Teig.",
+   "Erhitze eine beschichtete Pfanne mit wenig Öl bei mittlerer Hitze und backe aus dem Teig 3 bis 4 kleine Pancakes, je 2 bis 3 Minuten pro Seite.",
+   "Serviere die Pancakes mit Skyr und Beeren."
+  ],
+  "kcal": 646,
+  "p": 53,
+  "c": 59,
+  "f": 22
+ },
+ {
+  "id": "r_protein_pancakes_vegan",
+  "name": "Vegane Protein-Pancakes",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan",
+   "Schnell"
+  ],
+  "minutes": 15,
+  "servings": 1,
+  "ingredients": [
+   "1 Banane (ca. 120 g)",
+   "50 g Haferflocken (zart)",
+   "25 g Erbsenprotein-Pulver",
+   "120 ml ungesüßter Sojadrink",
+   "4 g Öl zum Braten",
+   "80 g Beerenmischung (TK oder frisch)",
+   "10 g Ahornsirup",
+   "1 TL Backpulver, 1 Prise Zimt"
+  ],
+  "steps": [
+   "Püriere Banane, Haferflocken, Erbsenprotein, Sojadrink, Backpulver und Zimt zu einem dickflüssigen Teig. Lass ihn 5 Minuten quellen.",
+   "Erhitze eine beschichtete Pfanne mit wenig Öl bei mittlerer Hitze.",
+   "Backe aus dem Teig kleine Pancakes, je 2 bis 3 Minuten pro Seite, bis sie goldbraun sind.",
+   "Serviere sie mit Beeren und einem Schuss Ahornsirup."
+  ],
+  "kcal": 512,
+  "p": 33,
+  "c": 69,
+  "f": 12
+ },
+ {
+  "id": "r_ruehrei_spinat_feta",
+  "name": "Rührei mit Spinat und Feta",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell"
+  ],
+  "minutes": 10,
+  "servings": 1,
+  "ingredients": [
+   "3 Eier (Größe M, ca. 180 g)",
+   "60 g Blattspinat (frisch oder TK)",
+   "30 g Feta",
+   "50 g Vollkornbrot",
+   "5 g Öl",
+   "Salz, Pfeffer"
+  ],
+  "steps": [
+   "Erhitze das Öl in einer Pfanne und lasse den Spinat 1 bis 2 Minuten zusammenfallen.",
+   "Verquirle die Eier mit Salz und Pfeffer und gib sie in die Pfanne.",
+   "Rühre die Eier bei mittlerer Hitze, bis sie fast gestockt sind, und bröckele den Feta darüber.",
+   "Serviere das Rührei mit der Scheibe Vollkornbrot."
+  ],
+  "kcal": 516,
+  "p": 33,
+  "c": 22,
+  "f": 33
+ },
+ {
+  "id": "r_ruehrei_eiklar_champignon",
+  "name": "Eiklar-Rührei mit Champignons",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell"
+  ],
+  "minutes": 10,
+  "servings": 1,
+  "ingredients": [
+   "2 Eier (Größe M, ca. 120 g)",
+   "150 ml Eiklar (aus dem Tetrapak oder frisch)",
+   "100 g Champignons",
+   "50 g Vollkornbrot",
+   "5 g Öl",
+   "Salz, Pfeffer, Schnittlauch"
+  ],
+  "steps": [
+   "Schneide die Champignons in Scheiben und brate sie im Öl bei hoher Hitze 3 bis 4 Minuten an.",
+   "Verquirle Eier und Eiklar mit Salz und Pfeffer.",
+   "Gieße die Eimasse über die Pilze und rühre bei mittlerer Hitze, bis sie cremig gestockt ist.",
+   "Streue Schnittlauch darüber und iss das Rührei mit dem Vollkornbrot."
+  ],
+  "kcal": 422,
+  "p": 38,
+  "c": 22,
+  "f": 20
+ },
+ {
+  "id": "r_ruehrei_lachs_brot",
+  "name": "Rührei mit Räucherlachs",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Schnell"
+  ],
+  "minutes": 10,
+  "servings": 1,
+  "ingredients": [
+   "3 Eier (Größe M, ca. 180 g)",
+   "50 g Räucherlachs",
+   "60 g Vollkornbrot",
+   "5 g Öl",
+   "80 g Salatgurke",
+   "Salz, Pfeffer, Dill"
+  ],
+  "steps": [
+   "Verquirle die Eier mit Salz und Pfeffer.",
+   "Erhitze das Öl in einer Pfanne bei mittlerer Hitze und rühre die Eier darin cremig.",
+   "Schneide den Lachs in Streifen und hebe ihn erst am Ende unter, damit er nicht zäh wird.",
+   "Serviere alles auf dem Vollkornbrot mit Gurkenscheiben und etwas Dill."
+  ],
+  "kcal": 539,
+  "p": 37,
+  "c": 27,
+  "f": 32
+ },
+ {
+  "id": "r_skyr_bowl_nuesse",
+  "name": "Skyr-Bowl mit Haferflocken und Nüssen",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "250 g Skyr (natur)",
+   "40 g Haferflocken (zart)",
+   "100 g Beerenmischung (TK oder frisch)",
+   "15 g Walnüsse",
+   "10 g Honig"
+  ],
+  "steps": [
+   "Gib den Skyr in eine Schüssel und glätte ihn mit einem Löffel.",
+   "Röste die Haferflocken optional 2 Minuten in einer trockenen Pfanne an, das gibt mehr Aroma.",
+   "Verteile Haferflocken, Beeren und gehackte Walnüsse auf dem Skyr.",
+   "Träufle den Honig darüber und iss die Bowl sofort."
+  ],
+  "kcal": 468,
+  "p": 36,
+  "c": 50,
+  "f": 13
+ },
+ {
+  "id": "r_porridge_apfel_zimt",
+  "name": "Protein-Porridge mit Apfel und Zimt",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell",
+   "Post-Workout"
+  ],
+  "minutes": 10,
+  "servings": 1,
+  "ingredients": [
+   "60 g Haferflocken (zart)",
+   "250 ml fettarme Milch (1,5 %)",
+   "150 g Apfel",
+   "25 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "10 g Walnüsse",
+   "Zimt, 1 Prise Salz"
+  ],
+  "steps": [
+   "Koche die Haferflocken mit der Milch, Zimt und Salz unter Rühren 3 bis 4 Minuten, bis der Brei cremig ist.",
+   "Reibe den Apfel grob und rühre ihn mit unter.",
+   "Nimm den Topf vom Herd, lasse den Brei kurz abkühlen und rühre dann das Proteinpulver ein, damit es nicht klumpt.",
+   "Streue die gehackten Walnüsse darüber."
+  ],
+  "kcal": 569,
+  "p": 38,
+  "c": 67,
+  "f": 16
+ },
+ {
+  "id": "r_omelett_gemuese_kaese",
+  "name": "Gemüse-Omelett mit Käse",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Low Carb",
+   "Vegetarisch",
+   "Schnell"
+  ],
+  "minutes": 12,
+  "servings": 1,
+  "ingredients": [
+   "3 Eier (Größe M, ca. 180 g)",
+   "80 g Paprika",
+   "30 g Zwiebeln",
+   "80 g Tomaten",
+   "30 g Gouda (30 % F. i. Tr.)",
+   "5 g Öl",
+   "Salz, Pfeffer"
+  ],
+  "steps": [
+   "Schneide Paprika, Zwiebel und Tomate in kleine Würfel.",
+   "Brate Zwiebel und Paprika im Öl 3 Minuten an und gib die Tomate kurz dazu.",
+   "Verquirle die Eier mit Salz und Pfeffer, gieße sie über das Gemüse und lasse alles bei mittlerer Hitze stocken.",
+   "Streue den Käse auf eine Hälfte, klappe das Omelett zusammen und lasse den Käse 1 Minute schmelzen."
+  ],
+  "kcal": 442,
+  "p": 33,
+  "c": 10,
+  "f": 30
+ },
+ {
+  "id": "r_tofu_scramble",
+  "name": "Veganes Tofu-Rührei mit Gemüse",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan",
+   "Schnell"
+  ],
+  "minutes": 15,
+  "servings": 1,
+  "ingredients": [
+   "200 g Tofu natur",
+   "80 g Paprika",
+   "50 g Blattspinat (frisch oder TK)",
+   "40 g Zwiebeln",
+   "8 g Öl",
+   "60 g Vollkornbrot",
+   "1 TL Kurkuma, Salz, Pfeffer, Paprikapulver"
+  ],
+  "steps": [
+   "Würfle Zwiebel und Paprika und brate beides im Öl 3 bis 4 Minuten an.",
+   "Zerbröckele den Tofu mit den Händen direkt in die Pfanne und brate ihn 4 Minuten mit.",
+   "Würze mit Kurkuma, Salz, Pfeffer und Paprikapulver, gib den Spinat dazu und lasse ihn zusammenfallen.",
+   "Iss das Scramble mit dem Vollkornbrot."
+  ],
+  "kcal": 488,
+  "p": 33,
+  "c": 35,
+  "f": 24
+ },
+ {
+  "id": "r_vollkornbrot_huettenkaese",
+  "name": "Vollkornbrot mit Hüttenkäse und Tomate",
+  "meal": "Frühstück",
+  "tags": [
+   "Vegetarisch",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "100 g Vollkornbrot",
+   "150 g körniger Frischkäse (Hüttenkäse)",
+   "100 g Tomaten",
+   "100 g Salatgurke",
+   "Salz, Pfeffer, Kresse"
+  ],
+  "steps": [
+   "Toaste das Vollkornbrot nach Belieben.",
+   "Bestreiche die Scheiben dick mit dem Hüttenkäse.",
+   "Belege sie mit Tomaten- und Gurkenscheiben.",
+   "Würze mit Salz, Pfeffer und Kresse."
+  ],
+  "kcal": 382,
+  "p": 26,
+  "c": 49,
+  "f": 9
+ },
+ {
+  "id": "r_fruehstueckswrap_ei_avocado",
+  "name": "Frühstückswrap mit Ei und Avocado",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell",
+   "Masse"
+  ],
+  "minutes": 12,
+  "servings": 1,
+  "ingredients": [
+   "60 g Vollkorn-Wrap",
+   "3 Eier (Größe M, ca. 180 g)",
+   "30 g Gouda (30 % F. i. Tr.)",
+   "60 g Avocado",
+   "60 g Tomaten",
+   "5 g Öl",
+   "Salz, Pfeffer"
+  ],
+  "steps": [
+   "Brate die verquirlten Eier in einer Pfanne im Öl als Rührei und würze sie mit Salz und Pfeffer.",
+   "Erwärme den Wrap kurz in einer trockenen Pfanne oder in der Mikrowelle.",
+   "Belege den Wrap mit Rührei, Käse, Avocadoscheiben und Tomatenwürfeln.",
+   "Rolle ihn fest ein, schneide ihn in der Mitte durch und iss ihn warm."
+  ],
+  "kcal": 674,
+  "p": 38,
+  "c": 34,
+  "f": 43
+ },
+ {
+  "id": "r_chia_pudding_vegan",
+  "name": "Veganer Chia-Pudding mit Banane",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan",
+   "Meal Prep",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "30 g Chiasamen",
+   "200 ml ungesüßter Sojadrink",
+   "20 g Erbsenprotein-Pulver",
+   "1 Banane (ca. 100 g)",
+   "80 g Beerenmischung (TK oder frisch)"
+  ],
+  "steps": [
+   "Verrühre Sojadrink und Erbsenprotein mit einem Schneebesen, bis keine Klümpchen mehr da sind.",
+   "Rühre die Chiasamen ein, warte 5 Minuten und rühre noch einmal um, damit nichts verklumpt.",
+   "Stelle den Pudding mindestens 4 Stunden oder über Nacht in den Kühlschrank.",
+   "Garniere ihn mit Bananenscheiben und Beeren."
+  ],
+  "kcal": 376,
+  "p": 30,
+  "c": 31,
+  "f": 15
+ },
+ {
+  "id": "r_haferflocken_muffins_quark",
+  "name": "Protein-Haferflocken-Muffins (Meal Prep)",
+  "meal": "Frühstück",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Meal Prep",
+   "Diät"
+  ],
+  "minutes": 30,
+  "servings": 4,
+  "ingredients": [
+   "150 g Haferflocken (zart)",
+   "4 Eier (Größe M, ca. 240 g)",
+   "250 g Magerquark",
+   "2 Bananen (ca. 240 g)",
+   "40 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "100 g Beerenmischung (TK oder frisch)",
+   "2 TL Backpulver, 1 TL Zimt"
+  ],
+  "steps": [
+   "Heize den Backofen auf 180 Grad Ober-/Unterhitze vor.",
+   "Zerdrücke die Bananen und verrühre sie mit Eiern, Quark und Proteinpulver. Mische Haferflocken, Backpulver und Zimt unter.",
+   "Hebe die Beeren unter und fülle den Teig in 12 gefettete oder mit Papierförmchen ausgelegte Muffinformen.",
+   "Backe die Muffins 20 bis 25 Minuten, bis sie goldbraun sind.",
+   "Lasse sie auskühlen. Eine Portion sind 3 Muffins. Im Kühlschrank halten sie 4 Tage, eingefroren 3 Monate."
+  ],
+  "kcal": 367,
+  "p": 29,
+  "c": 40,
+  "f": 10
+ },
+ {
+  "id": "r_haehnchen_reis_bowl",
+  "name": "Hähnchen-Reis-Bowl mit Brokkoli (Meal Prep)",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Meal Prep",
+   "Diät",
+   "Post-Workout"
+  ],
+  "minutes": 35,
+  "servings": 4,
+  "ingredients": [
+   "600 g Hähnchenbrustfilet (roh)",
+   "280 g Basmatireis (Rohgewicht)",
+   "500 g Brokkoli",
+   "20 g Öl",
+   "40 ml Sojasauce",
+   "Paprikapulver, Knoblauch, Pfeffer"
+  ],
+  "steps": [
+   "Koche den Reis nach Packungsanweisung und lasse ihn abkühlen.",
+   "Schneide das Hähnchen in mundgerechte Stücke und würze es mit Paprikapulver, Knoblauch und Pfeffer.",
+   "Brate das Hähnchen im Öl 6 bis 8 Minuten rundherum goldbraun und lösche mit der Sojasauce ab.",
+   "Dünste den Brokkoli in Röschen 4 Minuten bissfest.",
+   "Teile Reis, Hähnchen und Brokkoli auf 4 Boxen auf. Im Kühlschrank halten sie 4 Tage."
+  ],
+  "kcal": 492,
+  "p": 44,
+  "c": 60,
+  "f": 8
+ },
+ {
+  "id": "r_haehnchen_suesskartoffel_bowl",
+  "name": "Hähnchen-Süßkartoffel-Bowl (Meal Prep)",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Meal Prep",
+   "Diät"
+  ],
+  "minutes": 40,
+  "servings": 4,
+  "ingredients": [
+   "600 g Hähnchenbrustfilet (roh)",
+   "800 g Süßkartoffeln",
+   "300 g Paprika",
+   "20 g Öl",
+   "Paprikapulver, Kreuzkümmel, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Heize den Backofen auf 200 Grad vor. Würfle die Süßkartoffeln und die Paprika.",
+   "Vermenge das Gemüse mit der Hälfte des Öls und den Gewürzen und backe es 25 Minuten auf einem Blech.",
+   "Würfle das Hähnchen, würze es und brate es im restlichen Öl 7 bis 8 Minuten durch.",
+   "Teile alles auf 4 Boxen auf und iss die Bowls warm oder kalt."
+  ],
+  "kcal": 398,
+  "p": 38,
+  "c": 44,
+  "f": 8
+ },
+ {
+  "id": "r_chili_con_carne",
+  "name": "Chili con Carne mit Reis (Meal Prep)",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Meal Prep"
+  ],
+  "minutes": 45,
+  "servings": 4,
+  "ingredients": [
+   "500 g Rinderhackfleisch (mager, max. 10 % Fett)",
+   "400 g Kidneybohnen (Dose, abgetropft)",
+   "200 g Mais (Dose, abgetropft)",
+   "500 g passierte Tomaten",
+   "150 g Zwiebeln",
+   "200 g Paprika",
+   "20 g Tomatenmark",
+   "10 g Öl",
+   "240 g Basmatireis (Rohgewicht)",
+   "Chili, Kreuzkümmel, Paprikapulver, Salz"
+  ],
+  "steps": [
+   "Brate Zwiebeln und Hackfleisch im Öl krümelig an. Rühre das Tomatenmark ein und röste es 1 Minute mit.",
+   "Gib die gewürfelte Paprika dazu, gieße die passierten Tomaten an und würze mit Chili, Kreuzkümmel, Paprikapulver und Salz.",
+   "Füge Kidneybohnen und Mais hinzu und lasse alles 25 Minuten bei niedriger Hitze köcheln.",
+   "Koche in der Zwischenzeit den Reis.",
+   "Teile Chili und Reis auf 4 Portionen auf. Das Chili hält sich 4 Tage im Kühlschrank und lässt sich gut einfrieren."
+  ],
+  "kcal": 619,
+  "p": 41,
+  "c": 79,
+  "f": 16
+ },
+ {
+  "id": "r_putengeschnetzeltes_reis",
+  "name": "Putengeschnetzeltes mit Champignons und Reis",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Meal Prep"
+  ],
+  "minutes": 30,
+  "servings": 3,
+  "ingredients": [
+   "450 g Putenbrustfilet (roh)",
+   "250 g Champignons",
+   "100 g Zwiebeln",
+   "150 g Kochcreme (7 % Fett)",
+   "10 g Öl",
+   "210 g Basmatireis (Rohgewicht)",
+   "Salz, Pfeffer, Paprikapulver, Petersilie"
+  ],
+  "steps": [
+   "Koche den Reis nach Packungsanweisung.",
+   "Schneide die Pute in dünne Streifen und brate sie im Öl bei hoher Hitze 4 bis 5 Minuten an. Nimm sie heraus.",
+   "Brate Zwiebeln und Champignons in der gleichen Pfanne goldbraun.",
+   "Gib die Pute zurück, gieße die Kochcreme dazu und lasse alles 5 Minuten köcheln. Schmecke mit den Gewürzen ab.",
+   "Serviere das Geschnetzelte auf dem Reis und streue Petersilie darüber."
+  ],
+  "kcal": 505,
+  "p": 46,
+  "c": 60,
+  "f": 9
+ },
+ {
+  "id": "r_thunfisch_nudelsalat",
+  "name": "Thunfisch-Nudelsalat mit Mais",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Meal Prep"
+  ],
+  "minutes": 20,
+  "servings": 2,
+  "ingredients": [
+   "160 g Vollkornnudeln (Rohgewicht)",
+   "220 g Thunfisch im eigenen Saft (abgetropft)",
+   "100 g Mais (Dose, abgetropft)",
+   "150 g Tomaten",
+   "100 g Salatgurke",
+   "100 g Naturjoghurt (1,5 % Fett)",
+   "10 g Olivenöl",
+   "Zitronensaft, Salz, Pfeffer, Schnittlauch"
+  ],
+  "steps": [
+   "Koche die Nudeln bissfest, schrecke sie kalt ab und lasse sie abtropfen.",
+   "Würfle Tomaten und Gurke und mische sie mit Nudeln, Mais und dem abgetropften Thunfisch.",
+   "Verrühre Joghurt, Olivenöl, Zitronensaft, Salz und Pfeffer zum Dressing und hebe es unter.",
+   "Lasse den Salat 15 Minuten durchziehen und bestreue ihn mit Schnittlauch. Er hält sich 2 Tage im Kühlschrank."
+  ],
+  "kcal": 505,
+  "p": 42,
+  "c": 62,
+  "f": 10
+ },
+ {
+  "id": "r_rote_linsen_dal",
+  "name": "Rotes Linsen-Dal mit Spinat und Reis",
+  "meal": "Mittagessen",
+  "tags": [
+   "Vegetarisch",
+   "Vegan",
+   "Meal Prep"
+  ],
+  "minutes": 30,
+  "servings": 4,
+  "ingredients": [
+   "300 g rote Linsen (Rohgewicht)",
+   "400 ml Kokosmilch light",
+   "200 g passierte Tomaten",
+   "150 g Zwiebeln",
+   "200 g Blattspinat (frisch oder TK)",
+   "10 g Öl",
+   "200 g Basmatireis (Rohgewicht)",
+   "Currypulver, Kurkuma, Ingwer, Knoblauch, Salz"
+  ],
+  "steps": [
+   "Brate die gewürfelten Zwiebeln mit Knoblauch und Ingwer im Öl an und röste Currypulver und Kurkuma kurz mit.",
+   "Gib die Linsen, die passierten Tomaten, die Kokosmilch und 400 ml Wasser dazu und koche alles 15 Minuten.",
+   "Rühre den Spinat unter, bis er zusammenfällt, und schmecke mit Salz ab.",
+   "Koche den Reis nach Packungsanweisung und teile alles auf 4 Portionen auf."
+  ],
+  "kcal": 564,
+  "p": 25,
+  "c": 86,
+  "f": 13
+ },
+ {
+  "id": "r_kichererbsen_curry",
+  "name": "Kichererbsen-Spinat-Curry",
+  "meal": "Mittagessen",
+  "tags": [
+   "Vegetarisch",
+   "Vegan"
+  ],
+  "minutes": 25,
+  "servings": 3,
+  "ingredients": [
+   "480 g Kichererbsen (Dose, abgetropft)",
+   "200 ml Kokosmilch light",
+   "300 g passierte Tomaten",
+   "150 g Blattspinat (frisch oder TK)",
+   "100 g Zwiebeln",
+   "10 g Öl",
+   "180 g Basmatireis (Rohgewicht)",
+   "Currypulver, Kreuzkümmel, Knoblauch, Salz"
+  ],
+  "steps": [
+   "Koche den Reis nach Packungsanweisung.",
+   "Brate Zwiebel und Knoblauch im Öl glasig und röste die Gewürze 1 Minute mit.",
+   "Gib Kichererbsen, passierte Tomaten und Kokosmilch dazu und lasse alles 12 Minuten köcheln.",
+   "Rühre den Spinat unter, bis er zusammenfällt, und serviere das Curry auf dem Reis."
+  ],
+  "kcal": 523,
+  "p": 19,
+  "c": 79,
+  "f": 14
+ },
+ {
+  "id": "r_tofu_gemuese_pfanne",
+  "name": "Knusprige Tofu-Gemüse-Pfanne mit Reis",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan"
+  ],
+  "minutes": 25,
+  "servings": 2,
+  "ingredients": [
+   "400 g Tofu natur",
+   "400 g Gemüsemischung (TK, z. B. Wok-Gemüse)",
+   "160 g Basmatireis (Rohgewicht)",
+   "30 ml Sojasauce",
+   "15 g Öl",
+   "Ingwer, Knoblauch, Pfeffer"
+  ],
+  "steps": [
+   "Koche den Reis nach Packungsanweisung.",
+   "Tupfe den Tofu trocken, würfle ihn und brate ihn im Öl rundherum 8 Minuten knusprig.",
+   "Gib das Gemüse mit Ingwer und Knoblauch dazu und brate es 5 Minuten mit.",
+   "Lösche mit der Sojasauce ab, schwenke alles durch und serviere es auf dem Reis."
+  ],
+  "kcal": 671,
+  "p": 38,
+  "c": 78,
+  "f": 23
+ },
+ {
+  "id": "r_tempeh_quinoa_bowl",
+  "name": "Tempeh-Quinoa-Bowl mit Erdnusssauce",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan",
+   "Masse"
+  ],
+  "minutes": 30,
+  "servings": 2,
+  "ingredients": [
+   "250 g Tempeh",
+   "140 g Quinoa (Rohgewicht)",
+   "250 g Brokkoli",
+   "150 g Karotten",
+   "30 g Erdnussbutter (100 % Erdnüsse)",
+   "30 ml Sojasauce",
+   "10 g Öl",
+   "Limettensaft, Chiliflocken"
+  ],
+  "steps": [
+   "Koche die Quinoa nach Packungsanweisung. Dämpfe den Brokkoli 4 Minuten und raspele die Karotten.",
+   "Schneide das Tempeh in Scheiben und brate es im Öl von beiden Seiten 4 bis 5 Minuten knusprig.",
+   "Rühre die Erdnussbutter mit Sojasauce, Limettensaft, Chiliflocken und 3 bis 4 EL warmem Wasser zu einer Sauce.",
+   "Richte Quinoa, Gemüse und Tempeh in zwei Schüsseln an und gib die Sauce darüber."
+  ],
+  "kcal": 716,
+  "p": 43,
+  "c": 66,
+  "f": 31
+ },
+ {
+  "id": "r_bolognese_vollkorn",
+  "name": "Bolognese mit Vollkornnudeln (Meal Prep)",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Meal Prep"
+  ],
+  "minutes": 40,
+  "servings": 4,
+  "ingredients": [
+   "500 g Rinderhackfleisch (mager, max. 10 % Fett)",
+   "400 g passierte Tomaten",
+   "150 g Zwiebeln",
+   "150 g Karotten",
+   "20 g Tomatenmark",
+   "10 g Öl",
+   "320 g Vollkornnudeln (Rohgewicht)",
+   "Oregano, Basilikum, Knoblauch, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Brate die gewürfelten Zwiebeln und Karotten mit dem Hackfleisch im Öl krümelig an.",
+   "Rühre das Tomatenmark ein, gieße die passierten Tomaten dazu und würze mit Oregano, Basilikum, Knoblauch, Salz und Pfeffer.",
+   "Lasse die Sauce 20 Minuten bei niedriger Hitze köcheln.",
+   "Koche die Nudeln bissfest und mische sie mit der Sauce. Teile alles auf 4 Boxen auf."
+  ],
+  "kcal": 540,
+  "p": 38,
+  "c": 61,
+  "f": 16
+ },
+ {
+  "id": "r_haehnchen_wrap_hummus",
+  "name": "Hähnchen-Wrap mit Hummus",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Schnell"
+  ],
+  "minutes": 15,
+  "servings": 1,
+  "ingredients": [
+   "120 g Vollkorn-Wrap",
+   "150 g Hähnchenbrustfilet (roh)",
+   "40 g Hummus",
+   "50 g gemischter Blattsalat",
+   "80 g Tomaten",
+   "80 g Salatgurke",
+   "5 g Öl",
+   "Salz, Pfeffer, Paprikapulver"
+  ],
+  "steps": [
+   "Schneide das Hähnchen in Streifen, würze es und brate es im Öl 5 bis 6 Minuten durch.",
+   "Wärme die Wraps kurz an und bestreiche sie mit dem Hummus.",
+   "Belege sie mit Salat, Tomaten- und Gurkenscheiben und dem Hähnchen.",
+   "Schlage die Seiten ein, rolle die Wraps fest auf und schneide sie durch."
+  ],
+  "kcal": 674,
+  "p": 50,
+  "c": 68,
+  "f": 22
+ },
+ {
+  "id": "r_pellkartoffeln_kraeuterquark",
+  "name": "Pellkartoffeln mit Kräuterquark und Ei",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Masse"
+  ],
+  "minutes": 30,
+  "servings": 1,
+  "ingredients": [
+   "400 g Kartoffeln",
+   "250 g Magerquark",
+   "2 Eier (Größe M, ca. 120 g)",
+   "8 g Leinöl oder Rapsöl",
+   "Salz, Pfeffer, Schnittlauch, Petersilie, Zitronensaft"
+  ],
+  "steps": [
+   "Koche die Kartoffeln mit Schale in Salzwasser 20 bis 25 Minuten gar. Koche die Eier in den letzten 8 Minuten mit.",
+   "Verrühre Magerquark mit Öl, Zitronensaft, Salz, Pfeffer und den gehackten Kräutern.",
+   "Pelle Eier und Kartoffeln und serviere alles zusammen mit dem Kräuterquark."
+  ],
+  "kcal": 729,
+  "p": 53,
+  "c": 79,
+  "f": 22
+ },
+ {
+  "id": "r_gebratener_reis_haehnchen_ei",
+  "name": "Gebratener Reis mit Hähnchen und Ei",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Masse",
+   "Post-Workout"
+  ],
+  "minutes": 20,
+  "servings": 1,
+  "ingredients": [
+   "80 g Basmatireis (Rohgewicht)",
+   "130 g Hähnchenbrustfilet (roh)",
+   "2 Eier (Größe M, ca. 120 g)",
+   "150 g Gemüsemischung (TK, z. B. Wok-Gemüse)",
+   "15 ml Sojasauce",
+   "8 g Öl",
+   "Pfeffer, Knoblauch"
+  ],
+  "steps": [
+   "Koche den Reis vor, am besten schon am Vortag, und lasse ihn auskühlen.",
+   "Brate das gewürfelte Hähnchen im Öl 5 Minuten an und schiebe es an den Rand der Pfanne.",
+   "Gib das Gemüse dazu und brate es 3 Minuten mit. Schlage die Eier in die freie Stelle und rühre sie stockend.",
+   "Mische den Reis unter, würze mit Sojasauce, Pfeffer und Knoblauch und brate alles 3 Minuten durch."
+  ],
+  "kcal": 734,
+  "p": 56,
+  "c": 73,
+  "f": 24
+ },
+ {
+  "id": "r_bulgursalat_feta_kichererbsen",
+  "name": "Bulgur-Salat mit Feta und Kichererbsen",
+  "meal": "Mittagessen",
+  "tags": [
+   "Vegetarisch",
+   "Meal Prep"
+  ],
+  "minutes": 25,
+  "servings": 2,
+  "ingredients": [
+   "160 g Bulgur (Rohgewicht)",
+   "100 g Feta",
+   "240 g Kichererbsen (Dose, abgetropft)",
+   "200 g Salatgurke",
+   "200 g Tomaten",
+   "20 g Olivenöl",
+   "Zitronensaft, Minze, Petersilie, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Übergieße den Bulgur mit der doppelten Menge kochendem Wasser und lasse ihn 15 Minuten quellen.",
+   "Würfle Gurke und Tomaten und hacke die Kräuter.",
+   "Vermische alles mit Kichererbsen und zerbröckeltem Feta.",
+   "Mache den Salat mit Olivenöl, Zitronensaft, Salz und Pfeffer an. Er hält sich 2 Tage im Kühlschrank."
+  ],
+  "kcal": 631,
+  "p": 28,
+  "c": 72,
+  "f": 26
+ },
+ {
+  "id": "r_linsensuppe_deftig",
+  "name": "Deftige Linsensuppe (Meal Prep)",
+  "meal": "Mittagessen",
+  "tags": [
+   "Vegetarisch",
+   "Vegan",
+   "Meal Prep"
+  ],
+  "minutes": 40,
+  "servings": 4,
+  "ingredients": [
+   "200 g braune Linsen (Rohgewicht)",
+   "300 g Karotten",
+   "150 g Zwiebeln",
+   "300 g Kartoffeln",
+   "10 g Öl",
+   "20 g Tomatenmark",
+   "1,2 Liter Gemüsebrühe, Lorbeer, Essig, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Brate Zwiebeln, Karotten und Kartoffelwürfel im Öl 5 Minuten an und röste das Tomatenmark kurz mit.",
+   "Gib die Linsen, die Brühe und das Lorbeerblatt dazu und koche alles 25 Minuten.",
+   "Schmecke mit Essig, Salz und Pfeffer ab und püriere die Suppe nach Wunsch zur Hälfte.",
+   "Teile sie in 4 Portionen. Sie hält sich 4 Tage im Kühlschrank und lässt sich einfrieren."
+  ],
+  "kcal": 281,
+  "p": 15,
+  "c": 47,
+  "f": 4
+ },
+ {
+  "id": "r_rinderhack_reis_pfanne",
+  "name": "Hack-Reis-Pfanne mit Paprika",
+  "meal": "Mittagessen",
+  "tags": [
+   "High Protein",
+   "Masse"
+  ],
+  "minutes": 25,
+  "servings": 2,
+  "ingredients": [
+   "350 g Rinderhackfleisch (mager, max. 10 % Fett)",
+   "160 g Basmatireis (Rohgewicht)",
+   "250 g Paprika",
+   "100 g Zwiebeln",
+   "200 g passierte Tomaten",
+   "40 g Gouda (30 % F. i. Tr.)",
+   "10 g Öl",
+   "Paprikapulver, Oregano, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Koche den Reis nach Packungsanweisung.",
+   "Brate das Hack mit den Zwiebeln im Öl krümelig an und gib die Paprikawürfel dazu.",
+   "Gieße die passierten Tomaten an, würze und lasse alles 10 Minuten köcheln.",
+   "Mische den Reis unter und streue den Käse darüber, bis er geschmolzen ist."
+  ],
+  "kcal": 736,
+  "p": 50,
+  "c": 78,
+  "f": 25
+ },
+ {
+  "id": "r_lachs_ofengemuese",
+  "name": "Ofenlachs mit Süßkartoffeln und Brokkoli",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Masse",
+   "Post-Workout"
+  ],
+  "minutes": 35,
+  "servings": 1,
+  "ingredients": [
+   "180 g Lachsfilet",
+   "250 g Süßkartoffeln",
+   "200 g Brokkoli",
+   "8 g Olivenöl",
+   "Zitrone, Dill, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Heize den Backofen auf 200 Grad vor. Würfle die Süßkartoffeln und backe sie mit Öl, Salz und Pfeffer 15 Minuten.",
+   "Gib den Brokkoli in Röschen und das gewürzte Lachsfilet auf das Blech.",
+   "Backe alles weitere 12 bis 15 Minuten, bis der Lachs gar ist.",
+   "Beträufle den Lachs mit Zitronensaft und streue Dill darüber."
+  ],
+  "kcal": 708,
+  "p": 46,
+  "c": 58,
+  "f": 32
+ },
+ {
+  "id": "r_haehnchen_zucchini_pfanne",
+  "name": "Hähnchen-Zucchini-Pfanne mit Mozzarella",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Low Carb",
+   "Diät"
+  ],
+  "minutes": 20,
+  "servings": 1,
+  "ingredients": [
+   "200 g Hähnchenbrustfilet (roh)",
+   "300 g Zucchini",
+   "100 g Paprika",
+   "40 g Mozzarella light",
+   "8 g Öl",
+   "Salz, Pfeffer, Oregano, Knoblauch"
+  ],
+  "steps": [
+   "Schneide Hähnchen, Zucchini und Paprika in mundgerechte Stücke.",
+   "Brate das Hähnchen im Öl 6 Minuten rundherum an und würze es.",
+   "Gib das Gemüse dazu und brate es 5 Minuten mit.",
+   "Verteile den zerzupften Mozzarella darüber und lasse ihn mit Deckel 2 Minuten schmelzen."
+  ],
+  "kcal": 426,
+  "p": 59,
+  "c": 11,
+  "f": 16
+ },
+ {
+  "id": "r_seelachs_kartoffeln_spinat",
+  "name": "Seelachs mit Rahmspinat und Kartoffeln",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein"
+  ],
+  "minutes": 30,
+  "servings": 1,
+  "ingredients": [
+   "200 g Seelachsfilet",
+   "300 g Kartoffeln",
+   "250 g Blattspinat (frisch oder TK)",
+   "50 g Magerquark",
+   "8 g Öl",
+   "Zitrone, Muskat, Knoblauch, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Koche die Kartoffeln in Salzwasser 15 bis 20 Minuten gar.",
+   "Würze den Seelachs mit Salz, Pfeffer und Zitronensaft und brate ihn im Öl 3 bis 4 Minuten pro Seite.",
+   "Dünste den Spinat mit Knoblauch an und rühre den Magerquark sowie Muskat ein.",
+   "Serviere alles zusammen auf einem Teller."
+  ],
+  "kcal": 547,
+  "p": 54,
+  "c": 57,
+  "f": 11
+ },
+ {
+  "id": "r_pute_wok_cashew",
+  "name": "Puten-Wok mit Gemüse und Cashews",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein"
+  ],
+  "minutes": 20,
+  "servings": 1,
+  "ingredients": [
+   "200 g Putenbrustfilet (roh)",
+   "300 g Gemüsemischung (TK, z. B. Wok-Gemüse)",
+   "15 ml Sojasauce",
+   "8 g Öl",
+   "20 g Cashewkerne",
+   "Ingwer, Knoblauch, Chili"
+  ],
+  "steps": [
+   "Schneide die Pute in dünne Streifen.",
+   "Erhitze den Wok stark, brate die Pute im Öl 4 Minuten an und nimm sie heraus.",
+   "Brate das Gemüse mit Ingwer, Knoblauch und Chili 4 Minuten unter Rühren.",
+   "Gib die Pute, die Cashews und die Sojasauce dazu und schwenke alles 1 Minute durch."
+  ],
+  "kcal": 520,
+  "p": 60,
+  "c": 25,
+  "f": 20
+ },
+ {
+  "id": "r_thunfisch_salat_ei",
+  "name": "Großer Thunfischsalat mit Ei und Avocado",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Low Carb",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 10,
+  "servings": 1,
+  "ingredients": [
+   "150 g Thunfisch im eigenen Saft (abgetropft)",
+   "1 Ei (Größe M, ca. 60 g)",
+   "100 g gemischter Blattsalat",
+   "150 g Tomaten",
+   "100 g Salatgurke",
+   "50 g Avocado",
+   "8 g Olivenöl",
+   "Zitronensaft, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Koche das Ei 9 Minuten hart, schrecke es ab und pelle es.",
+   "Wasche den Salat und schneide Tomaten, Gurke und Avocado klein.",
+   "Gib alles in eine große Schüssel und lege den abgetropften Thunfisch sowie das geviertelte Ei darauf.",
+   "Beträufle den Salat mit Olivenöl und Zitronensaft und würze ihn."
+  ],
+  "kcal": 452,
+  "p": 50,
+  "c": 9,
+  "f": 24
+ },
+ {
+  "id": "r_blumenkohl_hack_pfanne",
+  "name": "Blumenkohl-Hack-Pfanne",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Low Carb"
+  ],
+  "minutes": 25,
+  "servings": 1,
+  "ingredients": [
+   "200 g Rinderhackfleisch (mager, max. 10 % Fett)",
+   "300 g Blumenkohl",
+   "100 g passierte Tomaten",
+   "30 g Gouda (30 % F. i. Tr.)",
+   "50 g Zwiebeln",
+   "5 g Öl",
+   "Paprikapulver, Kreuzkümmel, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Schneide den Blumenkohl in kleine Röschen oder hacke ihn grob.",
+   "Brate Zwiebeln und Hack im Öl krümelig an.",
+   "Gib den Blumenkohl, die passierten Tomaten und die Gewürze dazu und gare alles 10 bis 12 Minuten zugedeckt.",
+   "Streue den Käse darüber und lasse ihn schmelzen."
+  ],
+  "kcal": 558,
+  "p": 58,
+  "c": 16,
+  "f": 29
+ },
+ {
+  "id": "r_gefuellte_paprika_hack_reis",
+  "name": "Gefüllte Paprika mit Hack und Reis",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Meal Prep"
+  ],
+  "minutes": 50,
+  "servings": 2,
+  "ingredients": [
+   "500 g Paprika",
+   "250 g Rinderhackfleisch (mager, max. 10 % Fett)",
+   "100 g Basmatireis (Rohgewicht)",
+   "200 g passierte Tomaten",
+   "100 g Zwiebeln",
+   "50 g Gouda (30 % F. i. Tr.)",
+   "Paprikapulver, Oregano, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Koche den Reis nach Packungsanweisung. Heize den Backofen auf 190 Grad vor.",
+   "Schneide die Deckel der Paprika ab und entkerne sie. Brate Hack und Zwiebeln krümelig an.",
+   "Mische Hack, Reis und die Hälfte der Tomaten, würze kräftig und fülle die Paprika damit.",
+   "Setze sie in eine Auflaufform, gib die restliche Tomatensauce dazu, streue den Käse darauf und backe sie 25 Minuten."
+  ],
+  "kcal": 552,
+  "p": 40,
+  "c": 60,
+  "f": 17
+ },
+ {
+  "id": "r_raeuchertofu_nudelpfanne",
+  "name": "Räuchertofu-Nudelpfanne mit Gemüse",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan"
+  ],
+  "minutes": 25,
+  "servings": 1,
+  "ingredients": [
+   "150 g Räuchertofu",
+   "80 g Vollkornnudeln (Rohgewicht)",
+   "250 g Gemüsemischung (TK, z. B. Wok-Gemüse)",
+   "15 ml Sojasauce",
+   "10 g Öl",
+   "Knoblauch, Pfeffer, Chiliflocken"
+  ],
+  "steps": [
+   "Koche die Nudeln bissfest.",
+   "Würfle den Räuchertofu und brate ihn im Öl 5 Minuten knusprig.",
+   "Brate das Gemüse 4 Minuten mit und mische die abgetropften Nudeln unter.",
+   "Würze mit Sojasauce, Knoblauch, Pfeffer und Chiliflocken."
+  ],
+  "kcal": 676,
+  "p": 42,
+  "c": 68,
+  "f": 26
+ },
+ {
+  "id": "r_seitan_paprika_quinoa",
+  "name": "Seitan-Paprika-Pfanne mit Quinoa",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan"
+  ],
+  "minutes": 25,
+  "servings": 1,
+  "ingredients": [
+   "180 g Seitan",
+   "200 g Paprika",
+   "70 g Quinoa (Rohgewicht)",
+   "50 g Zwiebeln",
+   "15 ml Sojasauce",
+   "10 g Öl",
+   "Paprikapulver, Knoblauch, Pfeffer"
+  ],
+  "steps": [
+   "Koche die Quinoa nach Packungsanweisung.",
+   "Schneide den Seitan in Streifen und brate ihn im Öl 5 Minuten kräftig an.",
+   "Gib Zwiebeln und Paprika dazu und brate alles 5 Minuten mit.",
+   "Würze mit Sojasauce, Paprikapulver, Knoblauch und Pfeffer und serviere es auf der Quinoa."
+  ],
+  "kcal": 666,
+  "p": 59,
+  "c": 66,
+  "f": 18
+ },
+ {
+  "id": "r_hack_suesskartoffel_pfanne",
+  "name": "Hack-Süßkartoffel-Pfanne",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Masse"
+  ],
+  "minutes": 30,
+  "servings": 1,
+  "ingredients": [
+   "220 g Rinderhackfleisch (mager, max. 10 % Fett)",
+   "350 g Süßkartoffeln",
+   "150 g Paprika",
+   "30 g Gouda (30 % F. i. Tr.)",
+   "8 g Öl",
+   "Paprikapulver, Kreuzkümmel, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Schäle die Süßkartoffeln, würfle sie klein und brate sie im Öl 10 Minuten bei mittlerer Hitze.",
+   "Gib das Hack dazu und brate es krümelig, dann die Paprikawürfel.",
+   "Würze kräftig und gare alles noch 5 Minuten.",
+   "Streue den Käse darüber und lasse ihn schmelzen."
+  ],
+  "kcal": 849,
+  "p": 60,
+  "c": 78,
+  "f": 33
+ },
+ {
+  "id": "r_nudeln_haehnchen_brokkoli",
+  "name": "Vollkornnudeln mit Hähnchen und Brokkoli",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Masse"
+  ],
+  "minutes": 25,
+  "servings": 1,
+  "ingredients": [
+   "110 g Vollkornnudeln (Rohgewicht)",
+   "180 g Hähnchenbrustfilet (roh)",
+   "250 g Brokkoli",
+   "15 g Parmesan, gerieben",
+   "12 g Olivenöl",
+   "Knoblauch, Chiliflocken, Salz, Pfeffer"
+  ],
+  "steps": [
+   "Koche die Nudeln bissfest und gib den Brokkoli in den letzten 3 Minuten mit ins Wasser.",
+   "Brate das gewürfelte Hähnchen im Olivenöl 6 Minuten an und gib Knoblauch und Chili dazu.",
+   "Mische Nudeln und Brokkoli unter, schwenke alles mit etwas Nudelwasser durch.",
+   "Streue den Parmesan darüber."
+  ],
+  "kcal": 791,
+  "p": 69,
+  "c": 78,
+  "f": 23
+ },
+ {
+  "id": "r_frittata_gemuese_kartoffel",
+  "name": "Gemüse-Frittata mit Kartoffeln",
+  "meal": "Abendessen",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Meal Prep"
+  ],
+  "minutes": 30,
+  "servings": 2,
+  "ingredients": [
+   "6 Eier (Größe M, ca. 360 g)",
+   "200 g Zucchini",
+   "150 g Paprika",
+   "300 g Kartoffeln",
+   "60 g Feta",
+   "10 g Öl",
+   "Salz, Pfeffer, Schnittlauch"
+  ],
+  "steps": [
+   "Koche die Kartoffeln vor oder verwende Reste vom Vortag und schneide sie in Scheiben.",
+   "Brate Kartoffeln, Zucchini und Paprika in einer ofenfesten Pfanne im Öl 8 Minuten an.",
+   "Verquirle die Eier mit Salz und Pfeffer, gieße sie darüber und bröckele den Feta darauf.",
+   "Lasse die Frittata 5 Minuten stocken und gare sie bei 180 Grad im Ofen weitere 10 Minuten. Schneide sie in zwei Hälften."
+  ],
+  "kcal": 551,
+  "p": 33,
+  "c": 33,
+  "f": 32
+ },
+ {
+  "id": "r_kakao_quarkspeise",
+  "name": "Schoko-Quarkspeise",
+  "meal": "Snack",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "250 g Magerquark",
+   "50 ml fettarme Milch (1,5 %)",
+   "10 g Backkakao (stark entölt)",
+   "10 g Honig"
+  ],
+  "steps": [
+   "Gib den Quark in eine Schüssel.",
+   "Rühre Kakao, Honig und Milch ein, bis die Masse cremig ist.",
+   "Stelle die Quarkspeise bei Bedarf 10 Minuten kalt."
+  ],
+  "kcal": 247,
+  "p": 34,
+  "c": 22,
+  "f": 3
+ },
+ {
+  "id": "r_beeren_vanille_quark",
+  "name": "Vanille-Quark mit Beeren",
+  "meal": "Snack",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "250 g Magerquark",
+   "100 g Beerenmischung (TK oder frisch)",
+   "8 g Honig",
+   "Vanilleextrakt oder Vanillemark"
+  ],
+  "steps": [
+   "Verrühre den Magerquark mit Vanille und Honig glatt.",
+   "Taue die Beeren kurz an oder püriere die Hälfte zu einer Sauce.",
+   "Schichte Quark und Beeren in ein Glas."
+  ],
+  "kcal": 233,
+  "p": 31,
+  "c": 25,
+  "f": 1
+ },
+ {
+  "id": "r_proteinbaellchen_erdnuss",
+  "name": "Protein-Bällchen mit Erdnussbutter",
+  "meal": "Snack",
+  "tags": [
+   "Vegetarisch",
+   "Meal Prep",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 15,
+  "servings": 5,
+  "ingredients": [
+   "100 g Haferflocken (zart)",
+   "60 g Erdnussbutter (100 % Erdnüsse)",
+   "40 g Honig",
+   "60 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "30 g Datteln, entsteint",
+   "30 ml fettarme Milch (1,5 %)"
+  ],
+  "steps": [
+   "Püriere die Datteln mit der Milch zu einer Paste.",
+   "Verknete alle Zutaten zu einem formbaren Teig. Gib bei Bedarf einen Schuss Milch dazu.",
+   "Forme etwa 15 Kugeln und kühle sie 30 Minuten.",
+   "Eine Portion sind 3 Bällchen. Im Kühlschrank halten sie 7 Tage."
+  ],
+  "kcal": 234,
+  "p": 15,
+  "c": 25,
+  "f": 8
+ },
+ {
+  "id": "r_proteinriegel_hafer",
+  "name": "Selbstgemachte Haferflocken-Proteinriegel",
+  "meal": "Snack",
+  "tags": [
+   "Vegetarisch",
+   "Meal Prep",
+   "Masse"
+  ],
+  "minutes": 30,
+  "servings": 4,
+  "ingredients": [
+   "200 g Haferflocken (zart)",
+   "80 g Erdnussbutter (100 % Erdnüsse)",
+   "60 g Honig",
+   "60 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "1 Banane (ca. 120 g)",
+   "20 g Zartbitterschokolade (70 %)"
+  ],
+  "steps": [
+   "Heize den Backofen auf 170 Grad vor.",
+   "Zerdrücke die Banane und verrühre sie mit Erdnussbutter und Honig. Mische Haferflocken und Proteinpulver unter.",
+   "Drücke die Masse in eine mit Backpapier ausgelegte Form und backe sie 18 Minuten.",
+   "Lasse sie auskühlen, schneide sie in 8 Riegel und tauche die Enden in geschmolzene Schokolade. Eine Portion sind 2 Riegel."
+  ],
+  "kcal": 457,
+  "p": 24,
+  "c": 53,
+  "f": 17
+ },
+ {
+  "id": "r_hummus_gemuesesticks",
+  "name": "Hummus mit Gemüsesticks",
+  "meal": "Snack",
+  "tags": [
+   "Vegetarisch",
+   "Vegan",
+   "Schnell"
+  ],
+  "minutes": 8,
+  "servings": 1,
+  "ingredients": [
+   "60 g Hummus",
+   "100 g Karotten",
+   "100 g Paprika",
+   "100 g Salatgurke"
+  ],
+  "steps": [
+   "Schneide Karotte, Paprika und Gurke in Sticks.",
+   "Gib den Hummus in ein Schälchen.",
+   "Tunke die Gemüsesticks direkt ein."
+  ],
+  "kcal": 197,
+  "p": 7,
+  "c": 19,
+  "f": 10
+ },
+ {
+  "id": "r_reiswaffeln_erdnuss_banane",
+  "name": "Reiswaffeln mit Erdnussbutter und Banane",
+  "meal": "Snack",
+  "tags": [
+   "Vegetarisch",
+   "Vegan",
+   "Schnell"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "25 g Reiswaffeln",
+   "20 g Erdnussbutter (100 % Erdnüsse)",
+   "1 Banane (ca. 100 g)"
+  ],
+  "steps": [
+   "Bestreiche die Reiswaffeln dünn mit der Erdnussbutter.",
+   "Belege sie mit Bananenscheiben.",
+   "Optional: Streue etwas Zimt darüber."
+  ],
+  "kcal": 305,
+  "p": 8,
+  "c": 43,
+  "f": 11
+ },
+ {
+  "id": "r_hartgekochte_eier_gurke",
+  "name": "Harte Eier mit Gurke und Hüttenkäse",
+  "meal": "Snack",
+  "tags": [
+   "High Protein",
+   "Low Carb",
+   "Vegetarisch",
+   "Schnell"
+  ],
+  "minutes": 12,
+  "servings": 1,
+  "ingredients": [
+   "2 Eier (Größe M, ca. 120 g)",
+   "100 g Salatgurke",
+   "100 g körniger Frischkäse (Hüttenkäse)",
+   "Salz, Pfeffer, Schnittlauch"
+  ],
+  "steps": [
+   "Koche die Eier 9 Minuten hart, schrecke sie ab und pelle sie.",
+   "Schneide die Gurke in Scheiben.",
+   "Serviere alles mit dem Hüttenkäse und würze mit Salz, Pfeffer und Schnittlauch."
+  ],
+  "kcal": 290,
+  "p": 27,
+  "c": 6,
+  "f": 18
+ },
+ {
+  "id": "r_vegane_proteinbaellchen",
+  "name": "Vegane Schoko-Protein-Bällchen",
+  "meal": "Snack",
+  "tags": [
+   "Vegetarisch",
+   "Vegan",
+   "Meal Prep",
+   "Schnell"
+  ],
+  "minutes": 15,
+  "servings": 4,
+  "ingredients": [
+   "100 g Datteln, entsteint",
+   "80 g Haferflocken (zart)",
+   "60 g Erbsenprotein-Pulver",
+   "50 g Mandelmus",
+   "15 g Backkakao (stark entölt)",
+   "40 ml Hafermilch"
+  ],
+  "steps": [
+   "Püriere die Datteln mit der Hafermilch zu einer Paste.",
+   "Vermenge sie mit allen übrigen Zutaten zu einem festen Teig.",
+   "Forme etwa 16 Kugeln und kühle sie 30 Minuten. Eine Portion sind 4 Bällchen.",
+   "Im Kühlschrank halten sie 7 Tage."
+  ],
+  "kcal": 285,
+  "p": 19,
+  "c": 30,
+  "f": 10
+ },
+ {
+  "id": "r_mass_gainer_klassisch",
+  "name": "Mass-Gainer-Shake selbstgemacht",
+  "meal": "Shake",
+  "tags": [
+   "Vegetarisch",
+   "Schnell",
+   "Masse"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "80 g Haferflocken (zart)",
+   "1 Banane (ca. 120 g)",
+   "400 ml Vollmilch (3,5 %)",
+   "30 g Erdnussbutter (100 % Erdnüsse)",
+   "30 g Whey-Proteinpulver (Vanille oder Schoko)"
+  ],
+  "steps": [
+   "Gib die Milch zuerst in den Mixer, dann die restlichen Zutaten.",
+   "Mixe alles 45 Sekunden auf höchster Stufe, bis keine Haferflocken mehr zu spüren sind.",
+   "Trinke den Shake gleich nach dem Training oder verteile ihn über den Nachmittag."
+  ],
+  "kcal": 942,
+  "p": 57,
+  "c": 96,
+  "f": 37
+ },
+ {
+  "id": "r_mass_gainer_schoko_mandel",
+  "name": "Schoko-Mandel-Mass-Gainer",
+  "meal": "Shake",
+  "tags": [
+   "Vegetarisch",
+   "Schnell",
+   "Masse"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "70 g Haferflocken (zart)",
+   "1 Banane (ca. 120 g)",
+   "350 ml Vollmilch (3,5 %)",
+   "25 g Mandelmus",
+   "35 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "10 g Backkakao (stark entölt)",
+   "15 g Honig"
+  ],
+  "steps": [
+   "Gib Milch, Banane, Mandelmus und Kakao in den Mixer.",
+   "Füge Haferflocken, Proteinpulver und Honig hinzu.",
+   "Mixe alles gründlich 45 Sekunden und trinke den Shake gut gekühlt."
+  ],
+  "kcal": 940,
+  "p": 57,
+  "c": 100,
+  "f": 35
+ },
+ {
+  "id": "r_low_kcal_beeren_shake",
+  "name": "Low-Kcal-Beerenshake",
+  "meal": "Shake",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 3,
+  "servings": 1,
+  "ingredients": [
+   "30 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "200 ml fettarme Milch (1,5 %)",
+   "100 g Beerenmischung (TK oder frisch)",
+   "5 bis 6 Eiswürfel, Süßstoff nach Geschmack"
+  ],
+  "steps": [
+   "Gib alle Zutaten in einen Mixer.",
+   "Mixe 30 Sekunden, bis der Shake schaumig ist.",
+   "Trinke ihn sofort. Er hat wenig Kalorien und sättigt durch das viele Eiweiß."
+  ],
+  "kcal": 250,
+  "p": 31,
+  "c": 20,
+  "f": 5
+ },
+ {
+  "id": "r_whey_banane_shake",
+  "name": "Klassischer Whey-Bananen-Shake",
+  "meal": "Shake",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell",
+   "Post-Workout"
+  ],
+  "minutes": 3,
+  "servings": 1,
+  "ingredients": [
+   "30 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "1 Banane (ca. 120 g)",
+   "300 ml fettarme Milch (1,5 %)"
+  ],
+  "steps": [
+   "Gib Milch, Banane und Proteinpulver in einen Mixer oder Shaker.",
+   "Mixe alles 20 bis 30 Sekunden, bis keine Klümpchen mehr da sind.",
+   "Trinke den Shake innerhalb einer Stunde nach dem Training."
+  ],
+  "kcal": 366,
+  "p": 35,
+  "c": 42,
+  "f": 7
+ },
+ {
+  "id": "r_vegan_protein_shake",
+  "name": "Veganer Schoko-Bananen-Proteinshake",
+  "meal": "Shake",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Vegan",
+   "Schnell",
+   "Post-Workout"
+  ],
+  "minutes": 3,
+  "servings": 1,
+  "ingredients": [
+   "30 g Erbsenprotein-Pulver",
+   "300 ml ungesüßter Sojadrink",
+   "1 Banane (ca. 100 g)",
+   "5 g Backkakao (stark entölt)",
+   "20 g Haferflocken (zart)"
+  ],
+  "steps": [
+   "Gib alle Zutaten in den Mixer.",
+   "Mixe 45 Sekunden auf hoher Stufe.",
+   "Trinke den Shake direkt nach dem Training."
+  ],
+  "kcal": 383,
+  "p": 39,
+  "c": 36,
+  "f": 10
+ },
+ {
+  "id": "r_erdnuss_quark_shake",
+  "name": "Erdnuss-Quark-Shake",
+  "meal": "Shake",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "150 g Magerquark",
+   "200 ml fettarme Milch (1,5 %)",
+   "15 g Erdnussbutter (100 % Erdnüsse)",
+   "1 Banane (ca. 120 g)",
+   "5 g Backkakao (stark entölt)"
+  ],
+  "steps": [
+   "Gib Milch, Quark, Erdnussbutter, Banane und Kakao in den Mixer.",
+   "Mixe alles 30 Sekunden, bis der Shake cremig ist.",
+   "Trinke ihn kalt als Zwischenmahlzeit."
+  ],
+  "kcal": 404,
+  "p": 31,
+  "c": 43,
+  "f": 12
+ },
+ {
+  "id": "r_kaffee_protein_shake",
+  "name": "Eiskaffee-Proteinshake",
+  "meal": "Shake",
+  "tags": [
+   "High Protein",
+   "Low Carb",
+   "Vegetarisch",
+   "Schnell",
+   "Diät"
+  ],
+  "minutes": 3,
+  "servings": 1,
+  "ingredients": [
+   "30 g Whey-Proteinpulver (Vanille oder Schoko)",
+   "150 ml fettarme Milch (1,5 %)",
+   "200 ml kalter Kaffee, 5 bis 6 Eiswürfel, Zimt"
+  ],
+  "steps": [
+   "Gib alle Zutaten in einen Mixer.",
+   "Mixe 20 Sekunden, bis der Shake schaumig ist.",
+   "Trinke ihn als Frühstücksersatz für unterwegs oder vor dem Training."
+  ],
+  "kcal": 187,
+  "p": 28,
+  "c": 9,
+  "f": 4
+ },
+ {
+  "id": "r_nacht_quark_shake",
+  "name": "Schoko-Casein-Quarkshake für den Abend",
+  "meal": "Shake",
+  "tags": [
+   "High Protein",
+   "Vegetarisch",
+   "Schnell"
+  ],
+  "minutes": 5,
+  "servings": 1,
+  "ingredients": [
+   "250 g Magerquark",
+   "200 ml fettarme Milch (1,5 %)",
+   "10 g Backkakao (stark entölt)",
+   "10 g Mandelmus",
+   "Süßstoff nach Geschmack"
+  ],
+  "steps": [
+   "Püriere Quark, Milch, Kakao und Mandelmus im Mixer glatt.",
+   "Süße nach Geschmack.",
+   "Trinke den Shake etwa 30 bis 60 Minuten vor dem Schlafengehen. Das langsam verdauliche Milcheiweiß versorgt deine Muskeln über Nacht."
+  ],
+  "kcal": 344,
+  "p": 41,
+  "c": 22,
+  "f": 10
+ }
+]

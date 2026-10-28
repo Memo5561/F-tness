@@ -1,0 +1,206 @@
+[
+ {
+  "id": "mp_aufbau_3000",
+  "name": "Aufbau 3000 kcal",
+  "goal": "Aufbau",
+  "kcal": 3000,
+  "description": "Dieser Plan liefert einen deutlichen Kalorienüberschuss für den Muskelaufbau. 240 g Protein und viele Kohlenhydrate versorgen dich rund um das Training. Passe die Portionen an dein Körpergewicht und deinen Fortschritt an.",
+  "meals": [
+   {
+    "slot": "Frühstück",
+    "recipe": "r_overnight_oats_erdnuss",
+    "servings": 1
+   },
+   {
+    "slot": "Snack",
+    "recipe": "r_proteinriegel_hafer",
+    "servings": 1
+   },
+   {
+    "slot": "Mittagessen",
+    "recipe": "r_haehnchen_reis_bowl",
+    "servings": 1.5
+   },
+   {
+    "slot": "Abendessen",
+    "recipe": "r_nudeln_haehnchen_brokkoli",
+    "servings": 1
+   },
+   {
+    "slot": "Spätsnack",
+    "recipe": "r_nacht_quark_shake",
+    "servings": 1
+   }
+  ]
+ },
+ {
+  "id": "mp_aufbau_2600_vegetarisch",
+  "name": "Aufbau 2600 kcal vegetarisch",
+  "goal": "Aufbau",
+  "kcal": 2600,
+  "description": "Ein fleischfreier Aufbauplan mit Eiern, Quark und Kartoffeln. Mit etwa 190 g Protein deckst du den Bedarf auch ohne Fleisch und Fisch gut ab.",
+  "meals": [
+   {
+    "slot": "Frühstück",
+    "recipe": "r_overnight_oats_erdnuss",
+    "servings": 1
+   },
+   {
+    "slot": "Snack",
+    "recipe": "r_erdnuss_quark_shake",
+    "servings": 1
+   },
+   {
+    "slot": "Mittagessen",
+    "recipe": "r_pellkartoffeln_kraeuterquark",
+    "servings": 1
+   },
+   {
+    "slot": "Abendessen",
+    "recipe": "r_frittata_gemuese_kartoffel",
+    "servings": 1
+   },
+   {
+    "slot": "Spätsnack",
+    "recipe": "r_kakao_quarkspeise",
+    "servings": 1
+   }
+  ]
+ },
+ {
+  "id": "mp_diaet_1800",
+  "name": "Diät 1800 kcal",
+  "goal": "Diät",
+  "kcal": 1800,
+  "description": "Ein moderates Kaloriendefizit mit viel Gemüse und Volumen, damit du satt bleibst. Rund 185 g Protein schützen deine Muskulatur während der Diät.",
+  "meals": [
+   {
+    "slot": "Frühstück",
+    "recipe": "r_overnight_oats_beeren",
+    "servings": 1
+   },
+   {
+    "slot": "Snack",
+    "recipe": "r_low_kcal_beeren_shake",
+    "servings": 1
+   },
+   {
+    "slot": "Mittagessen",
+    "recipe": "r_haehnchen_suesskartoffel_bowl",
+    "servings": 1
+   },
+   {
+    "slot": "Abendessen",
+    "recipe": "r_seelachs_kartoffeln_spinat",
+    "servings": 1
+   },
+   {
+    "slot": "Spätsnack",
+    "recipe": "r_beeren_vanille_quark",
+    "servings": 1
+   }
+  ]
+ },
+ {
+  "id": "mp_diaet_2100_high_protein",
+  "name": "Diät 2100 kcal High Protein",
+  "goal": "Diät",
+  "kcal": 2100,
+  "description": "Ein Diätplan für größere oder sehr aktive Menschen mit besonders viel Eiweiß (etwa 215 g). Die Quark- und Magerfleisch-Mahlzeiten halten lange satt und sind einfach vorzubereiten.",
+  "meals": [
+   {
+    "slot": "Frühstück",
+    "recipe": "r_skyr_bowl_nuesse",
+    "servings": 1
+   },
+   {
+    "slot": "Snack",
+    "recipe": "r_kakao_quarkspeise",
+    "servings": 1
+   },
+   {
+    "slot": "Mittagessen",
+    "recipe": "r_putengeschnetzeltes_reis",
+    "servings": 1
+   },
+   {
+    "slot": "Abendessen",
+    "recipe": "r_blumenkohl_hack_pfanne",
+    "servings": 1
+   },
+   {
+    "slot": "Spätsnack",
+    "recipe": "r_nacht_quark_shake",
+    "servings": 1
+   }
+  ]
+ },
+ {
+  "id": "mp_erhaltung_2400",
+  "name": "Erhaltung 2400 kcal",
+  "goal": "Erhaltung",
+  "kcal": 2400,
+  "description": "Ein ausgewogener Plan zum Gewicht halten mit Fleisch, Fisch und Vollkorn. Etwa 185 g Protein und gesunde Fette sorgen für Energie über den ganzen Tag.",
+  "meals": [
+   {
+    "slot": "Frühstück",
+    "recipe": "r_ruehrei_lachs_brot",
+    "servings": 1
+   },
+   {
+    "slot": "Snack",
+    "recipe": "r_whey_banane_shake",
+    "servings": 1
+   },
+   {
+    "slot": "Mittagessen",
+    "recipe": "r_bolognese_vollkorn",
+    "servings": 1
+   },
+   {
+    "slot": "Abendessen",
+    "recipe": "r_lachs_ofengemuese",
+    "servings": 1
+   },
+   {
+    "slot": "Spätsnack",
+    "recipe": "r_beeren_vanille_quark",
+    "servings": 1
+   }
+  ]
+ },
+ {
+  "id": "mp_vegan_2300",
+  "name": "Vegan 2300 kcal",
+  "goal": "Erhaltung",
+  "kcal": 2300,
+  "description": "Ein komplett pflanzlicher Tagesplan mit Tofu-, Seitan- und Hülsenfrucht-Gerichten. Er liefert etwa 155 g Protein und ist ideal, wenn du dein Gewicht halten willst.",
+  "meals": [
+   {
+    "slot": "Frühstück",
+    "recipe": "r_protein_pancakes_vegan",
+    "servings": 1
+   },
+   {
+    "slot": "Snack",
+    "recipe": "r_hummus_gemuesesticks",
+    "servings": 1
+   },
+   {
+    "slot": "Mittagessen",
+    "recipe": "r_kichererbsen_curry",
+    "servings": 1
+   },
+   {
+    "slot": "Abendessen",
+    "recipe": "r_seitan_paprika_quinoa",
+    "servings": 1
+   },
+   {
+    "slot": "Spätsnack",
+    "recipe": "r_vegan_protein_shake",
+    "servings": 1
+   }
+  ]
+ }
+]
